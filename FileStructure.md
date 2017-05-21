@@ -52,3 +52,15 @@ The file structure has been designed to follow the requirements we defined in 1.
   "status": "draft || review || approved"
 }
 ```
+
+## Exported Data
+
+When building the questions, using the parser from the tools repo, it will create one big JSON-File with the following structure:
+
+```
+{
+  "version": "Version-Number",
+  "questions": []
+}
+```
+The questions array will contain all approved questions as individual json object.
