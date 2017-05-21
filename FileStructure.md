@@ -14,6 +14,7 @@ Furthermore we had to agree what kind of data we needed:
   * For list questions the required number of correct answers
   * The type of the question (see Question Types)
   * The difficulty of the question in a ranking from 1 to 3.
+  * The category to sort in the question
   * For the internal progress a status (draft, review, approved)
 
 ## Question Types
@@ -22,6 +23,9 @@ Furthermore we had to agree what kind of data we needed:
   * fillIn
   * wildcard
   * list
+
+## Categories
+_Not finished yet_
 
 ## File format
 
@@ -49,6 +53,7 @@ The file structure has been designed to follow the requirements we defined in 1.
     }
   ],
   "difficulty": "int(1-3)",
+  "category": "Type"
   "status": "draft || review || approved"
 }
 ```
