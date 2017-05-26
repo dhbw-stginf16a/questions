@@ -40,7 +40,7 @@ The file structure has been designed to follow the requirements we defined in 1.
   "type": "multipleChoice || fillIn || wildcard || list",
   "question": "string",
   "requiredAnswers": "int",
-  "answer": [
+  "answers": [
     {
       "index": "int",
       "text": "string"
@@ -53,7 +53,7 @@ The file structure has been designed to follow the requirements we defined in 1.
     }
   ],
   "difficulty": "int(1-3)",
-  "category": "Type"
+  "category": "Type",
   "status": "draft || review || approved"
 }
 ```
@@ -65,7 +65,12 @@ When building the questions, using the parser from the tools repo, it will creat
 ```
 {
   "version": "Version-Number",
-  "questions": []
+  "categories": {
+    "categoryA": [],
+    "categoryB": [],
+    "categoryC": []
+  }
 }
 ```
-The questions array will contain all approved questions as individual json object.
+Initially it was planned to just have one array containing all questions. After spending some thoughts about it, it became clear, that it would make more sense to order the questions by category already in the data structure.
+The category-arrays will contain all approved questions as individual json object.
