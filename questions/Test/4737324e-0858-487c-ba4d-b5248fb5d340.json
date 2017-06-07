@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Funktioniert dieses Tool wirklich?",
+  "answers" : [ ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "yes"
+  }, {
+    "index" : 2,
+    "text" : "no"
+  }, {
+    "index" : 3,
+    "text" : "maybe"
+  } ],
+  "requiredAnswers" : 4,
+  "category" : "Test"
+}
