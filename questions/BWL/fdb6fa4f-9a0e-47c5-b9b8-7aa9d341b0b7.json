@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne 2 Aspekte der Corporate Communication.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Unternehmenskommunikation"
+  }, {
+    "index" : 2,
+    "text" : "Werbemaßnahmen"
+  }, {
+    "index" : 3,
+    "text" : "Öffentlichkeitsarbeit"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "BWL"
+}

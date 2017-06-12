@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "BWL ist eine ...",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Kulturwissenschaft"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Naturwissenschaft"
+  }, {
+    "index" : 2,
+    "text" : "Rechtswissenschaft"
+  }, {
+    "index" : 3,
+    "text" : "Kulturwissenschaft"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "BWL"
+}

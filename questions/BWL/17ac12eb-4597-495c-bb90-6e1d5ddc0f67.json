@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Welche der folgenden Punkte tifft in einer Kapitalistischen Marktwirtschaft zu?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Die Entscheidungsstrucktur ist dezentral"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Die Entscheidungsstrucktur ist dezentral"
+  }, {
+    "index" : 2,
+    "text" : "Die Entscheidungsstrucktur ist zentral"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "BWL"
+}

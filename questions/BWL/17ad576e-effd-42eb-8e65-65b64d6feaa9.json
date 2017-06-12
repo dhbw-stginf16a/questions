@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne 3 Aspekte des Corporate Behaviour.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Finanzgebaren"
+  }, {
+    "index" : 2,
+    "text" : "Mitarbeiterführung"
+  }, {
+    "index" : 3,
+    "text" : "Umgangston"
+  }, {
+    "index" : 4,
+    "text" : "Reaktion auf Kritik"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "BWL"
+}
