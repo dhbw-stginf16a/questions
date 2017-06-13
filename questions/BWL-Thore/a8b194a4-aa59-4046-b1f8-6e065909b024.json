@@ -5,7 +5,7 @@
   "question" : "Bei Luft, Wasser und Sonnenlicht spricht man auch von [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : null
+    "text" : "freien Gütern" 
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
