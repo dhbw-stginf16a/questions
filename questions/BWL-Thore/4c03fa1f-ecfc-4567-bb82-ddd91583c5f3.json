@@ -1,0 +1,31 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne drei Bedürfnisse des Menschen",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Grundbedürfnisse"
+  }, {
+    "index" : 2,
+    "text" : "Sicherheit"
+  }, {
+    "index" : 3,
+    "text" : "Soziale Bedürfnisse"
+  }, {
+    "index" : 4,
+    "text" : "Wertschätzung"
+  }, {
+    "index" : 5,
+    "text" : "Selbstverwirklichung"
+  }, {
+    "index" : 6,
+    "text" : "WLAN"
+  }, {
+    "index" : 7,
+    "text" : "Physiologische Bedürfnisse"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "BWL-Thore"
+}

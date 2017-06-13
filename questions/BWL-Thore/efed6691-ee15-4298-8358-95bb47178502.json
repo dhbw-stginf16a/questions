@@ -1,0 +1,28 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Als welche Art von Gut ist eine Bormaschine in einem Haushalt zu klassifizieren?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Gebrauchsgut"
+  }, {
+    "index" : 4,
+    "text" : "Konsumgut"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Gebrauchsgut"
+  }, {
+    "index" : 2,
+    "text" : "Verbrauchsgut"
+  }, {
+    "index" : 3,
+    "text" : "Investitionsgut"
+  }, {
+    "index" : 4,
+    "text" : "Konsumgut"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}

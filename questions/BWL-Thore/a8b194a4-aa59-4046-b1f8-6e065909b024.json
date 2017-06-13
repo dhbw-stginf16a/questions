@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Bei Luft, Wasser und Sonnenlicht spricht man auch von [...].",
+  "answers" : [ {
+    "index" : 1,
+    "text" : null
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}

@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was zeichnet wirtschaftliches Handeln aus?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Bestehende Güter und Dienstleistungen planvoll einzusetzen."
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Bestehende Güter und Dienstleistungen planvoll einzusetzen."
+  }, {
+    "index" : 2,
+    "text" : "Auf maximalen Profit zu optimieren."
+  }, {
+    "index" : 3,
+    "text" : "In den besten Aktienkurs zu investieren."
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "BWL-Thore"
+}

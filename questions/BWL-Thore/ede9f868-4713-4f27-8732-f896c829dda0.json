@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wahr oder Falsch?\n\"Die Vollkostenrechnung enthält die Systeme der Kostenrechnung, in denen alle Kosten der Erstellung und Verwertung von Leistungen auf den Kostenträger verrechnet werden.\"",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Wahr"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Wahr"
+  }, {
+    "index" : 2,
+    "text" : "Falsch"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}

@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Handelt es sich bei Nahrung, Kleidung und Unterkunft um Grundbedürfnisse?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Nein"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Ja"
+  }, {
+    "index" : 2,
+    "text" : "Nein"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}
