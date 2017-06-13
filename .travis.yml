@@ -1,0 +1,20 @@
+language: python
+python:
+- '2.7'
+- '3.3'
+before_script:
+- wget https://raw.githubusercontent.com/dhbw-stginf16a/questions-tools/master/parseQuestion.py
+script:
+- parseQuestions.py --generate-json
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: Zy2iX+VmO56LpeTLwt8dUCHXV6YK8zbURrzzyz8BLnILZq92VdzDEJWQlrOxQI9Z7ZTD817WCBb9e7lLIxsPzUTLn8dYw9Cs30QKFJwXHRlQVYAPegDe0c+4oIFxj9ODnku78AOdJUXnZyrHPAsv9ipr/aNGdeKMW40YPGTXAI9/W2Sgyw7qIAx91q039Jk/ztOTBOWDtWIDEpOehK2TNtB2Jo4V4kgnYDJktHPD2uIQJ6RD2KqECE3gyhH3o/HfGL8buwWYdcLdk//tnOzxqFmy6tUBQ+2Zvl7MUo0CSOh61fmPJFhuLW38mzYCur4az44VrzqS7GiDeB1sChbl3oVKujOMbdUnjCXVE+TKcEWrUq9aZCNH+jYJ977k08cSolRwtLqSRdtbNUdlU5tJI7YfbqrMovha/+WScnEH0IlLWdLwbCCmv3e2RvzEeH0dhygQj9wTM0eL0PKHGp3xbTwbUtX3IzVnYclOEfyYirFm4bqAHln1dSJ5hZQJr8aPI/LFbW26l8r1kz5aSf73rszONY9MCZSwlqrh13bosUbxkxj1DpyyQe8mOp/br79zCGxQdS33YQ6T/HUOtztF6KW5h+0e5zeDqHG52ZqkzFcWYX2F8MR2lSbj7B5jX9elSPd200uRSb7pQfo9FnNMj73cK4SOaxoUE7YNVQF7700=
+  file:
+    - "questions.json"
+    - "README.md"
+    - "FileStructure.md"
+  on:
+    repo: dhbw-stginf16a/questions
+    tags: true
