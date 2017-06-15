@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Kosten, die den einzelnen Kostenträgern (Produkten) nicht direkt zugerechnet werden können, wie z. B. Verpackungskosten, Frachtkosten, Lagerkosten oder Prüfkosten gehören in de Kategorie der [...].",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Materialgemeinkosten"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}
