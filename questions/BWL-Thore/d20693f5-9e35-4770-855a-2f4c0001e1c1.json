@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Aus welchen zwei Kosten setzen sich die Herstellungskosten zusammen?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Materialkosten"
+  }, {
+    "index" : 2,
+    "text" : "Fertigungskosten"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "BWL-Thore"
+}

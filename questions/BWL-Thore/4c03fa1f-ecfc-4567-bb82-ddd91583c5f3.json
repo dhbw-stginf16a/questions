@@ -24,6 +24,9 @@
   }, {
     "index" : 7,
     "text" : "Physiologische Bedürfnisse"
+  }, {
+    "index" : 8,
+    "text" : "Existenzbedürfnisse"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

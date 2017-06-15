@@ -1,0 +1,31 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Nenne vier Stakeholder",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Staat"
+  }, {
+    "index" : 2,
+    "text" : "Konkurrenten"
+  }, {
+    "index" : 3,
+    "text" : "Kunden"
+  }, {
+    "index" : 4,
+    "text" : "Kapitalgeber"
+  }, {
+    "index" : 5,
+    "text" : "Lieferanten"
+  }, {
+    "index" : 6,
+    "text" : "Manager"
+  }, {
+    "index" : 7,
+    "text" : "Mitarbeiter"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "BWL-Thore"
+}

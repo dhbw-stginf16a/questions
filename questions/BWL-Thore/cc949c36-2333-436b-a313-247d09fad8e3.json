@@ -2,11 +2,8 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Als welche Art von Gut ist eine Bohrmaschine in einem Haushalt zu klassifizieren?",
+  "question" : "Als welche Art von Gut ist Papier bei einem Schreibwarenhändler zu klassifizieren?",
   "answers" : [ {
-    "index" : 1,
-    "text" : "Gebrauchsgut"
-  }, {
     "index" : 4,
     "text" : "Konsumgut"
   } ],

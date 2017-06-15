@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Wahr oder Falsch?\n\"Mit minimalem Mitteleinsatz maximale Leistungen erbringen.\" beschreibt das Optimumsprinzip.",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Falsch"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Wahr"
+  }, {
+    "index" : 2,
+    "text" : "Falsch"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "BWL-Thore"
+}
