@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was bedeutet Finanzierung?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Investition beschreibt, wie finanzielle mittel verwendet werden, um Anlagevermögen und/oder Umlaufvermögen zu beschaffen(Aktiv-Seite der Bilanz)."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

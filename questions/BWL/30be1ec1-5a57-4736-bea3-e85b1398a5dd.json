@@ -1,0 +1,37 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Welche der folgenen Aktien sind Stammaktien?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Inhaberaktien"
+  }, {
+    "index" : 2,
+    "text" : "Namensaktien"
+  }, {
+    "index" : 3,
+    "text" : "Vinkulierte Aktien"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Inhaberaktien"
+  }, {
+    "index" : 2,
+    "text" : "Namensaktien"
+  }, {
+    "index" : 3,
+    "text" : "Vinkulierte Aktien"
+  }, {
+    "index" : 4,
+    "text" : "Stimmrechtsvorzüge"
+  }, {
+    "index" : 5,
+    "text" : "Dividendenvorzüge"
+  }, {
+    "index" : 6,
+    "text" : "Vorzüge am Liquidationserlös"
+  } ],
+  "requiredAnswers" : 3,
+  "category" : "BWL"
+}

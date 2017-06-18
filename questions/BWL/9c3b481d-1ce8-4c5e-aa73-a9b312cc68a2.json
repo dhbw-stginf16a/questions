@@ -2,16 +2,16 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Nenne 2 Aspekte der Corporate Communication.",
+  "question" : "Nenne 2 Preisfindungsmechanismen.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Unternehmenskommunikation"
+    "text" : "Kostenorientierte Preisfindung"
   }, {
     "index" : 2,
-    "text" : "Werbemaßnahmen"
+    "text" : "Marktorientierte Preisfindung"
   }, {
     "index" : 3,
-    "text" : "Öffentlichkeitsarbeit"
+    "text" : "Nachfrageorientierte Preisfindung"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

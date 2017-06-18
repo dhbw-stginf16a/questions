@@ -1,0 +1,28 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Welche Einträge gehören auf die Aktiv-Seite einer Bilanz?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Anlagevermögen"
+  }, {
+    "index" : 2,
+    "text" : "Umlaufvermögen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Anlagevermögen"
+  }, {
+    "index" : 2,
+    "text" : "Umlaufvermögen"
+  }, {
+    "index" : 3,
+    "text" : "Eigenkapital"
+  }, {
+    "index" : 4,
+    "text" : "Fremdkapital"
+  } ],
+  "requiredAnswers" : 2,
+  "category" : "BWL"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wofür steht die Abkürzung KMU?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Kleine und mittlere Unternehmen"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

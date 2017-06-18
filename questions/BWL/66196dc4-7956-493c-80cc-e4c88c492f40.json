@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Was ist Mezzanine-Kapital?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Mezzanine-Kapital ist eine Mischform zwischen Eigen- und Fremdkapital. Einem Unternehmen wird dabei bilanzielles Eigenkapital zugeführt, ohne den Kapitalgebern Stimmen- oder Einflussnahmerechte zu gewähren."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

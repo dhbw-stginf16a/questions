@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne 3 Finanzwirtschaftliche Entscheidungskriterien.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Liquidität"
+  }, {
+    "index" : 2,
+    "text" : "Rentabilität"
+  }, {
+    "index" : 3,
+    "text" : "Chance-/Risiko-Balance"
+  }, {
+    "index" : 4,
+    "text" : "Unabhängigkeit/ Bindung"
+  }, {
+    "index" : 5,
+    "text" : "Nachhaltigkeit & soziale Verantwortung"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "BWL"
+}

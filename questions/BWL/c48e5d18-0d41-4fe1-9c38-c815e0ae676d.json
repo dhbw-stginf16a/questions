@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Was versteht man unter Scheinselbstständigkeit?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Wenn ein Unternehmen einen selbstständigen Unternehmer in einer solchen Art und Weise beschäftigt, dass dieser faktisch als Angestellter anzusehen ist, bezeichnet man diesen Unternehmer als scheinselbstständig. Diese Art der Beschäftigung ist illegal, da das Unternehmen, für den Scheinselbständigen keine Sozialversicherungsbeiträge zahlen muss."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

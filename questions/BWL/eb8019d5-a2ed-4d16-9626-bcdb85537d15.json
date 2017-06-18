@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne 3 Rechte eines Aktionärs.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Teilnahme an der Hauptversammlung"
+  }, {
+    "index" : 2,
+    "text" : "Stimmrecht"
+  }, {
+    "index" : 3,
+    "text" : "Dividendenrecht"
+  }, {
+    "index" : 4,
+    "text" : "Anteil am Liquidationserlös"
+  }, {
+    "index" : 5,
+    "text" : "Bezugsrecht"
+  }, {
+    "index" : 6,
+    "text" : "Informationsrecht"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "BWL"
+}

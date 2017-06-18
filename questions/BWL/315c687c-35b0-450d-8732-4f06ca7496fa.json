@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was ist eine Bilanz?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Eine Bilanz ist eine summarische und ausgleichende Gegenüberstellung von Wertekategorien."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

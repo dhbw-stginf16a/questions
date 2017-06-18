@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Was ist ein Franchise?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Bei Franchise handelt es sich um eine Kooperation, bei der es einen Franchise-Geber und einen Franchise-Nehmer gibt. Dabei erlaubt der Franchise-Geber dem Franchise-Nehmer rechtlich geschützte Waren und Dienstleistungen anzubieten."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}

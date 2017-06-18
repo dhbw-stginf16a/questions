@@ -1,0 +1,40 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Welche der folgenden Investitionen sind objektbezogen?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Immaterielle Investitionen"
+  }, {
+    "index" : 2,
+    "text" : "Finanzinvestitionen"
+  }, {
+    "index" : 1,
+    "text" : "Sachinvestitionen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Sachinvestitionen"
+  }, {
+    "index" : 2,
+    "text" : "Finanzinvestitionen"
+  }, {
+    "index" : 3,
+    "text" : "Immaterielle Investitionen"
+  }, {
+    "index" : 4,
+    "text" : "Nettoinvestitionen"
+  }, {
+    "index" : 5,
+    "text" : "Reinvestitionen"
+  }, {
+    "index" : 6,
+    "text" : "Bruttoinvestitionen"
+  }, {
+    "index" : 7,
+    "text" : "Hierarchiebezogene Investitionen"
+  } ],
+  "requiredAnswers" : 3,
+  "category" : "BWL"
+}

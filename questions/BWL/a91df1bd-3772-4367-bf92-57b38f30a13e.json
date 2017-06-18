@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Eine Offene Handelsgesellschaft ist eine [...].",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Personengesellschaft"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Kapitalgesellschaft"
+  }, {
+    "index" : 2,
+    "text" : "Personengesellschaft"
+  }, {
+    "index" : 3,
+    "text" : "Mischform"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "BWL"
+}
