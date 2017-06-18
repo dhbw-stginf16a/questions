@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was lässt sich durch personifizierte Preisbildung und Unterbindung von Weiterverkauf erreichen?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Perfekte Preisdifferenzierung"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

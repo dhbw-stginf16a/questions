@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Die Bekanntheit einer Marke wird auch wie betitelt ?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Brand Awareness"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

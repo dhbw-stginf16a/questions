@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wenn ein Produkt unter der Gewinnschwelle angeboten wird, dafür aber ein anderes in der Produktkette preislich erhöht wird heißt das ... (engl.)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Cross-benefits pricing"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was bedeutet \"Distribution\" im wirtschaftlichen Sinne?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Verteilung oder Vertrieb von Gütern"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Primäre und sekundäre Informationen sind 2 verschiedene Ergebisse der ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Marktanalyse"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

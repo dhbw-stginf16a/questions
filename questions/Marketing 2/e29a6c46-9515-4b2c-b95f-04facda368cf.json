@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Nutzt ein Unternehmen ... gleichzeitig, so spricht man vom Multi-Channel-Vertrieb.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "mehrere Absatzkanäle"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

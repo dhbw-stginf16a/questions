@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Eine Anforderung des USP ist die ... , da das Merkmal, das das Produkt auszeichnet, keine Kosten verursachen soll.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Wirtschaftlichkeit"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

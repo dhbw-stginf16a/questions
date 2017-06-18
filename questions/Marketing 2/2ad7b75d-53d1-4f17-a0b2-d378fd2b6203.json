@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Eine ... ist ein Warenzeichen, Namen oder Symbol, mit dem Produkte gekennzeichnet werden, um ihre Einmaligkeit auszudrücken.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Marke"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

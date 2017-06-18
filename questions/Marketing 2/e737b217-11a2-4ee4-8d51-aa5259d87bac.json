@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wie ist Preiselastizität zu verstehen?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Wie sehr der Kunde auf Preisschwankung reagiert"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

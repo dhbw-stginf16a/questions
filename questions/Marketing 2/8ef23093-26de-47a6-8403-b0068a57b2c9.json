@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wodurch wird eine Preisobergrenze gegeben?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Nachfrage"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Kosten"
+  }, {
+    "index" : 2,
+    "text" : "Nachfrage"
+  }, {
+    "index" : 3,
+    "text" : "Konkurrenz"
+  }, {
+    "index" : 4,
+    "text" : "dem Staat"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

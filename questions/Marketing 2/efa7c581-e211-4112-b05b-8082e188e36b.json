@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "B2C bedeutet auch?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Direktvertrieb"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "eine perfekte Preisdifferenz"
+  }, {
+    "index" : 2,
+    "text" : "Verkauf über Einzelhandel"
+  }, {
+    "index" : 3,
+    "text" : "Direktvertrieb"
+  }, {
+    "index" : 4,
+    "text" : "marktorientierte Preisfindung"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

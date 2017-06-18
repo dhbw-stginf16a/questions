@@ -1,0 +1,16 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wiederkäufe, die auf eine Marke oder ein Produkt zurückzuführen sind werden mit ... bezeichnet.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Markentreue"
+  }, {
+    "index" : 2,
+    "text" : "Brand Loyality"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

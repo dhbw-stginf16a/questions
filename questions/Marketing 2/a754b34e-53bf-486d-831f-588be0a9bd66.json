@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Anforderungen an das USP sind Verteidigungsfähigkeit, Wirtschaftlichkeit, Preis, Qualität, Spezial Features und ... ?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Zielgruppenorientierung"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

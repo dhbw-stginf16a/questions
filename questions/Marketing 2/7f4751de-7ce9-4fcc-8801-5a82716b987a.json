@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Ob direkter oder indirekter Vertrieb ist auch von ... abhängig. In den USA wird eher direkt, wohingegen in Deutschland meist indirekt vertrieben wird.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Vertriebsregion"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

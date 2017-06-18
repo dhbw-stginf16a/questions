@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wie wird die Konsumentenrente berechnet?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Reservationspreis - Marktpreis"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Reservationspreis - Marktpreis"
+  }, {
+    "index" : 2,
+    "text" : "Gewinnschwelle - Marktpreis"
+  }, {
+    "index" : 3,
+    "text" : "Preis * Menge"
+  }, {
+    "index" : 4,
+    "text" : "Deckungsbeitrag - Stückpreis"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

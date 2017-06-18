@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Zu den Hauptzielen der Marktanalyse gehören Kunden, Produkt und ...?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Konkurrenz"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Logo, Uniformen und Farben gehören zum ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "corporate design"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

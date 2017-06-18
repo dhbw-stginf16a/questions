@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Ein echter oder angenommener Kundennutzen, mit dem sich ein Produkt oder eine Marke deutlich vom Wettbewerb abhebt, heißt? (engl.)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Unique Selling Proposition"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

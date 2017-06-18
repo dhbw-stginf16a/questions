@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was ist die langfristige Preisuntergrenze auch?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Gewinnschwelle"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Gewinnschwelle"
+  }, {
+    "index" : 2,
+    "text" : "Deckungsbeitrag"
+  }, {
+    "index" : 3,
+    "text" : "nur gedeckte variable Kosten"
+  }, {
+    "index" : 4,
+    "text" : "langweilig"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

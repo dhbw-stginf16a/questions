@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Bei der Markenbildung stehen sich immer 2 Werte gegenüber. Zeitersparnis und Erlebnis und ..?",
+  "answers" : [ {
+    "index" : 4,
+    "text" : "Luxus und Preis"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Emotion und Erfahrung"
+  }, {
+    "index" : 2,
+    "text" : "Service und Problemlösung"
+  }, {
+    "index" : 3,
+    "text" : "Status und Luxus"
+  }, {
+    "index" : 4,
+    "text" : "Luxus und Preis"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

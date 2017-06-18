@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "In was wird bei Segmentierung in Bezug auf Preisdifferenzierung eingeteilt?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Zahlungsbereitschaft der Konsumenten"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Kosten der Waren"
+  }, {
+    "index" : 2,
+    "text" : "Zahlungsbereitschaft der Konsumenten"
+  }, {
+    "index" : 3,
+    "text" : "Entfernung zum Absatzmarkt"
+  }, {
+    "index" : 4,
+    "text" : "Dauer der Produktion"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

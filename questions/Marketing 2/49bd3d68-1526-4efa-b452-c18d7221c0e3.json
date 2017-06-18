@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Eine Anforderrung des USP ist das behaupten gegen die Konkurrenz. Wie heißt das Fachwort dafür?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Verteidigungsfähigkeit"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

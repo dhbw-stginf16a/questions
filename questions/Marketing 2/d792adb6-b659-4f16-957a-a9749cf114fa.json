@@ -1,0 +1,19 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Nenne eine der 3 Markenarchitekturen!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Einzelmarke"
+  }, {
+    "index" : 2,
+    "text" : "Dachmarke"
+  }, {
+    "index" : 3,
+    "text" : "Markenfamilie"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing 2"
+}

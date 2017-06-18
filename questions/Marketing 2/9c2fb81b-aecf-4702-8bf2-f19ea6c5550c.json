@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wenn sich die Art des Vetriebs nach Verteilung und Häufigkeit der Nachfrage richtet, sind die Faktoren ...",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "kundenbezogen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "produktbezogen"
+  }, {
+    "index" : 2,
+    "text" : "kundenbezogen"
+  }, {
+    "index" : 3,
+    "text" : "konkurrenzbezogen"
+  }, {
+    "index" : 4,
+    "text" : "unternehmensbezogen"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}

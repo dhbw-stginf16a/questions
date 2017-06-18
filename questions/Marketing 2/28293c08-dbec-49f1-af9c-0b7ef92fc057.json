@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "\"Percieved Quality\" umfasst die Qualität die der Kunde tatsächlich wahr nimmt, dazu gehört auch ... ?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Image und Design"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Image und Design"
+  }, {
+    "index" : 2,
+    "text" : "Design und Preis"
+  }, {
+    "index" : 3,
+    "text" : "Preis und Rezession"
+  }, {
+    "index" : 4,
+    "text" : "Image und Rezession"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing 2"
+}
