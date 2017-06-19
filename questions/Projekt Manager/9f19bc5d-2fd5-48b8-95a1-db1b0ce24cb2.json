@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was wird ein Projektmanager eher nicht tun?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Ein Umfeld schaffen, das niemanden ausschließt"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Einen Bericht nach derm Projekt anfertigen /*dies wird regelmäßig gemacht, daher falsch*/"
+  }, {
+    "index" : 2,
+    "text" : "Ein Umfeld schaffen, das niemanden ausschließt"
+  }, {
+    "index" : 3,
+    "text" : "Teambuilding fördern"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Projekt Manager"
+}

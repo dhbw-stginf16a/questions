@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wofür wird das RASIC-Chart eingesetzt?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Zur Veranschaulichung von Zuständigkeiten in einem Projekt"
+  }, {
+    "index" : 3,
+    "text" : "Zur Verteilung von Rollen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Zur Veranschaulichung von Zuständigkeiten in einem Projekt"
+  }, {
+    "index" : 2,
+    "text" : "Zur nachträglichen Prüfung von Abläufen"
+  }, {
+    "index" : 3,
+    "text" : "Zur Verteilung von Rollen"
+  } ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

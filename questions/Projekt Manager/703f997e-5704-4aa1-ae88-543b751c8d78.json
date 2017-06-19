@@ -1,0 +1,16 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Der Projektmanager benötigt die passende Balance zwischen ... und ....",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Technische Fähigkeiten"
+  }, {
+    "index" : 2,
+    "text" : "Verhaltensfähigkeiten"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Projekt Manager"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wie nennt man Fachleute, deren Meinung oft eingeholt wird?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Berater (Consultant)"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Eine Variation des RASIC-Modells ist RAPID. Nenne zwei Begriffe. (engl.)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Perform"
+  }, {
+    "index" : 2,
+    "text" : "Input"
+  }, {
+    "index" : 3,
+    "text" : "Decide"
+  }, {
+    "index" : 4,
+    "text" : "Recommend"
+  }, {
+    "index" : 5,
+    "text" : "Agree"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

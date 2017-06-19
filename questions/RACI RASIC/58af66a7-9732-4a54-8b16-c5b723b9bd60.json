@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Für welche fünf Begriffe steht RASIC? (engl.)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Responsible"
+  }, {
+    "index" : 2,
+    "text" : "Approving"
+  }, {
+    "index" : 3,
+    "text" : "Supporting"
+  }, {
+    "index" : 4,
+    "text" : "Informed"
+  }, {
+    "index" : 5,
+    "text" : "Consulted"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "RACI RASIC"
+}

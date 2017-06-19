@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Welche Variation des RASIC-Modells gibt es nicht?",
+  "answers" : [ {
+    "index" : 4,
+    "text" : "RADI"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "RACI"
+  }, {
+    "index" : 2,
+    "text" : "RAPID"
+  }, {
+    "index" : 3,
+    "text" : "RATSI"
+  }, {
+    "index" : 4,
+    "text" : "RADI"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

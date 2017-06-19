@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Für welche vier Begriffe steht RACI? (engl.)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Responsible"
+  }, {
+    "index" : 2,
+    "text" : "Accountable"
+  }, {
+    "index" : 3,
+    "text" : "Consulted"
+  }, {
+    "index" : 4,
+    "text" : "Informed"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "RACI RASIC"
+}

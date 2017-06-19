@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Welche Bedeutung besitzt \"VS\" in der erweiterten Variante des RACI-Modells? (engl.)\n",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Out of the loop (or omitted)"
+  }, {
+    "index" : 2,
+    "text" : "Signatory"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

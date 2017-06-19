@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Wo kann RASCI eingesetzt werden?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Dort, wo Verantwortungen klar verteilt werden sollen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Wenn dem Unternehmen Druck durch Kunden gemacht wird"
+  }, {
+    "index" : 2,
+    "text" : "Dort, wo Verantwortungen klar verteilt werden sollen"
+  }, {
+    "index" : 3,
+    "text" : "Falls Das RACI-Modell nicht anschlägt"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

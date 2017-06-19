@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Was ist für einen Projektmanager wichtiger?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "beides in gleichem Maß"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Technische Fähigkeiten"
+  }, {
+    "index" : 2,
+    "text" : "Verhaltensfähigkeiten"
+  }, {
+    "index" : 3,
+    "text" : "beides in gleichem Maß"
+  }, {
+    "index" : 4,
+    "text" : "gut aussehen"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Projekt Manager"
+}

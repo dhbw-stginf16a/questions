@@ -1,0 +1,28 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Nenne vier Zuständigkeiten eines Projektmanagers",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Kommunizieren (Comunicating)"
+  }, {
+    "index" : 2,
+    "text" : "Planen (Planning)"
+  }, {
+    "index" : 3,
+    "text" : "Verhandeln (Negotiating)"
+  }, {
+    "index" : 4,
+    "text" : "Coaching"
+  }, {
+    "index" : 5,
+    "text" : "Entscheidungen treffen (Decision-making)"
+  }, {
+    "index" : 6,
+    "text" : "Leadership"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Projekt Manager"
+}

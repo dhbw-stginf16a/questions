@@ -1,0 +1,16 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Für jeden Schritt in dem Prozess, auf den der RASIC-Ansatz angewendet wurde, muss es sowohl eine ... als auch eine ... Partei geben.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "verantwortliche"
+  }, {
+    "index" : 2,
+    "text" : "zustimmende"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}
