@@ -1,17 +1,17 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Nenne 2 Prizipien der Sozialen Marktwirtschaft.",
+  "status" : "review",
+  "question" : "List 2 principles of a social marked.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Gewährleistung der sozialen Gerechtigkeit"
+    "text" : "Garanty of social equality"
   }, {
     "index" : 2,
-    "text" : "Einkommensumverteilung zugunsten sozial Schwächerer"
+    "text" : "Income distribution in favor of financialy vulnerable people"
   }, {
     "index" : 3,
-    "text" : "Sozialversicherung"
+    "text" : "Social insurance"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

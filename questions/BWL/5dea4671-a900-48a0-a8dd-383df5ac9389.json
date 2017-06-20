@@ -2,16 +2,19 @@
   "type" : "multipleChoice",
   "difficulty" : 3,
   "status" : "review",
-  "question" : "Which of the following investments is object related?",
+  "question" : "Which of the following investments is impact related?",
   "answers" : [ {
-    "index" : 3,
-    "text" : "Immaterielle Investitionen"
+    "index" : 4,
+    "text" : "Net investment"
   }, {
-    "index" : 2,
-    "text" : "Finanzinvestitionen"
+    "index" : 5,
+    "text" : "Reinvestment"
   }, {
-    "index" : 1,
-    "text" : "Sachinvestitionen"
+    "index" : 6,
+    "text" : "Gross investment"
+  }, {
+    "index" : 7,
+    "text" : "Hierarchy related investment"
   } ],
   "possibilities" : [ {
     "index" : 1,

@@ -1,19 +1,19 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Welche der folgenden Punkte tifft in einer Kapitalistischen Marktwirtschaft zu?",
+  "status" : "review",
+  "question" : "Which of the following points applies to a capitalistic marked?",
   "answers" : [ {
     "index" : 1,
     "text" : "Die Entscheidungsstrucktur ist dezentral"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Die Entscheidungsstrucktur ist dezentral"
+    "text" : "The decision making is decentralized"
   }, {
     "index" : 2,
-    "text" : "Die Entscheidungsstrucktur ist zentral"
+    "text" : "The decision making is centralized"
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "BWL"
 }

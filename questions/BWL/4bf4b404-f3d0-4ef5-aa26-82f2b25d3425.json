@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Wofür steht die Abkürzung KMU?",
+  "status" : "review",
+  "question" : "What does SME's stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Kleine und mittlere Unternehmen"
+    "text" : "Small and medium enterprises"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

@@ -1,20 +1,20 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Nenne 3 Aspekte des Corporate Behaviour.",
+  "status" : "review",
+  "question" : "List 3 aspects of corporate behaviour.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Finanzgebaren"
+    "text" : "Financial management"
   }, {
     "index" : 2,
-    "text" : "Mitarbeiterführung"
+    "text" : "Employee management"
   }, {
     "index" : 3,
-    "text" : "Umgangston"
+    "text" : "Tone"
   }, {
     "index" : 4,
-    "text" : "Reaktion auf Kritik"
+    "text" : "Reaction to criticism"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

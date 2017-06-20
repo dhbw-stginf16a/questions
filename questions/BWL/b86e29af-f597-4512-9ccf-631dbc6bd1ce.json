@@ -1,35 +1,35 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Nenne 4 Aspekte des Corporate Design.",
+  "status" : "review",
+  "question" : "List 4 aspekts of corporate design.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Gestaltung von Firmenzeichen"
+    "text" : "Logo"
   }, {
     "index" : 2,
-    "text" : "Farbgebung"
+    "text" : "Colors"
   }, {
     "index" : 3,
-    "text" : "Arbeitskleidung"
+    "text" : "Uniforms"
   }, {
     "index" : 4,
-    "text" : "Briefbögen"
+    "text" : "Letter Heads"
   }, {
     "index" : 5,
-    "text" : "Visitenkarten"
+    "text" : "Business cards"
   }, {
     "index" : 6,
-    "text" : "Onlineauftritt"
+    "text" : "Online presence"
   }, {
     "index" : 7,
-    "text" : "Architectur der Betriebsgebäude"
+    "text" : "Architecture of coporate buildings"
   }, {
     "index" : 8,
-    "text" : "Akustischer Auftritt"
+    "text" : "Acoustic presence"
   }, {
     "index" : 9,
-    "text" : "Olfaktorischer Auftritt (Geruch)"
+    "text" : "Corporate smell"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,

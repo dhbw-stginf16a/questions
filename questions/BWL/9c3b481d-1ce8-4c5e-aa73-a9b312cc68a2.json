@@ -1,17 +1,17 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Nenne 2 Preisfindungsmechanismen.",
+  "status" : "review",
+  "question" : "List 2 pricing mechanisms.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Kostenorientierte Preisfindung"
+    "text" : "Const-oriented pricing"
   }, {
     "index" : 2,
-    "text" : "Marktorientierte Preisfindung"
+    "text" : "Marked-oriented pricing"
   }, {
     "index" : 3,
-    "text" : "Nachfrageorientierte Preisfindung"
+    "text" : "Demand-oriented pricing"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

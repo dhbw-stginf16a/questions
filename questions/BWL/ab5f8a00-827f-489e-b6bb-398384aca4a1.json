@@ -1,11 +1,11 @@
 {
-  "type" : "fillIn",
+  "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Unter einem Konzern versteht man einen [...].",
+  "status" : "review",
+  "question" : "What is an affiliated group?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Zusammenschluss von verschiedenen, rechtlich selbstständigen Unternehmen."
+    "text" : "A group of indipendent companies which are working together."
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

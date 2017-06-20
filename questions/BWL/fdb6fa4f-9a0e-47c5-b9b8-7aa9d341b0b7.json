@@ -1,17 +1,17 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Nenne 2 Aspekte der Corporate Communication.",
+  "status" : "review",
+  "question" : "List 2 aspekts of corporate communication.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Unternehmenskommunikation"
+    "text" : "Communication (internal and external)"
   }, {
     "index" : 2,
-    "text" : "Werbemaßnahmen"
+    "text" : "Advertising"
   }, {
     "index" : 3,
-    "text" : "Öffentlichkeitsarbeit"
+    "text" : "Public relations"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

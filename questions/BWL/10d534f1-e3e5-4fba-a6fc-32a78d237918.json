@@ -1,22 +1,22 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "BWL ist eine ...",
+  "status" : "review",
+  "question" : "Economics is a ...",
   "answers" : [ {
     "index" : 3,
     "text" : "Kulturwissenschaft"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Naturwissenschaft"
+    "text" : "Natural Science"
   }, {
     "index" : 2,
-    "text" : "Rechtswissenschaft"
+    "text" : "Jurisprudence"
   }, {
     "index" : 3,
-    "text" : "Kulturwissenschaft"
+    "text" : "Cultural Science"
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "BWL"
 }

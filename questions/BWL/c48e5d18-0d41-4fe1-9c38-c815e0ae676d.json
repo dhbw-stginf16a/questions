@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Was versteht man unter Scheinselbstständigkeit?",
+  "status" : "review",
+  "question" : "What is pretendet self-employment?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Wenn ein Unternehmen einen selbstständigen Unternehmer in einer solchen Art und Weise beschäftigt, dass dieser faktisch als Angestellter anzusehen ist, bezeichnet man diesen Unternehmer als scheinselbstständig. Diese Art der Beschäftigung ist illegal, da das Unternehmen, für den Scheinselbständigen keine Sozialversicherungsbeiträge zahlen muss."
+    "text" : "Pretendet self-employment discribes the situation, in that a self-employed person is working for a company in a manner that allows the conclusion that this person is an employee but is not paying social insurence fees a normal employee would pay."
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

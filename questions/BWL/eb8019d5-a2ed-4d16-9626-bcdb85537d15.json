@@ -1,26 +1,26 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Nenne 3 Rechte eines Aktionärs.",
+  "status" : "review",
+  "question" : "List 3 privileges of a shareholder.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Teilnahme an der Hauptversammlung"
+    "text" : "Participation in the general assambly"
   }, {
     "index" : 2,
-    "text" : "Stimmrecht"
+    "text" : "Right to vote"
   }, {
     "index" : 3,
-    "text" : "Dividendenrecht"
+    "text" : "Right of dividend"
   }, {
     "index" : 4,
-    "text" : "Anteil am Liquidationserlös"
+    "text" : "Portion of liquidation revenue"
   }, {
     "index" : 5,
-    "text" : "Bezugsrecht"
+    "text" : "Option on new stock"
   }, {
     "index" : 6,
-    "text" : "Informationsrecht"
+    "text" : "Right for information"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

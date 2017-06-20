@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Was ist eine Unternehmensvision?",
+  "status" : "review",
+  "question" : "What is a corporate vision?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Unter einer Unternehmensvision wird eine generelle unternehmerische Leitidee verstanden, die zwar szenarisch, aber dennoch realistische und graubwürdige Aussagen hinsichtlich einer anzustrebenden und im Prinzip auch erreichbaren Zukunft formuliert."
+    "text" : "The corporate vision is the long term basic idea of the direction a company is heading"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

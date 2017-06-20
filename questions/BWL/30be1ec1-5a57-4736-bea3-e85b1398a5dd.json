@@ -1,8 +1,8 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Welche der folgenen Aktien sind Stammaktien?",
+  "status" : "review",
+  "question" : "Which of the following shares are ordinary shares?",
   "answers" : [ {
     "index" : 1,
     "text" : "Inhaberaktien"
@@ -15,22 +15,22 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Inhaberaktien"
+    "text" : "Bearer shares"
   }, {
     "index" : 2,
-    "text" : "Namensaktien"
+    "text" : "Registered shares"
   }, {
     "index" : 3,
-    "text" : "Vinkulierte Aktien"
+    "text" : "Vinkulated shares"
   }, {
     "index" : 4,
-    "text" : "Stimmrechtsvorzüge"
+    "text" : "Voting benefits"
   }, {
     "index" : 5,
-    "text" : "Dividendenvorzüge"
+    "text" : "Dividend benefits"
   }, {
     "index" : 6,
-    "text" : "Vorzüge am Liquidationserlös"
+    "text" : "Advantages of the liquidation proceeds"
   } ],
   "requiredAnswers" : 3,
   "category" : "BWL"
