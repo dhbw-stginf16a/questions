@@ -2,10 +2,10 @@
   "type" : "wildcard",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Primäre und sekundäre Informationen sind 2 verschiedene Ergebisse der ...",
+  "question" : "Primary and sekundary information are 2 different results of ...",
   "answers" : [ {
     "index" : 1,
-    "text" : "Marktanalyse"
+    "text" : "market research"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,

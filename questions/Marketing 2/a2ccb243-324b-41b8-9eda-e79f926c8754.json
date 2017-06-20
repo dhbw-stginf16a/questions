@@ -2,7 +2,7 @@
   "type" : "wildcard",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Wie ist das Fachwort für das Erscheinungsbild eines Unternehmens in der Öffentlichkeit?",
+  "question" : "What's the word for a company's image in public?",
   "answers" : [ {
     "index" : 1,
     "text" : "Corporate Identity"
