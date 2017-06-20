@@ -5,9 +5,9 @@
   "question" : "Bei Luft, Wasser und Sonnenlicht spricht man auch von [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "freien Gütern" 
+    "text" : "freien Gütern"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "BWL-Thore"
+  "category" : "Economics"
 }
