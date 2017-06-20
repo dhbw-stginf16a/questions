@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What is the definition of a risk?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "the possibility of something going wrong in the future"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

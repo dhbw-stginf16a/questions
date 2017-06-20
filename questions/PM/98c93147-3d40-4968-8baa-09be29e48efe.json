@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "True or False: Multitasking is a good method for finishing tasks faster.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "False"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

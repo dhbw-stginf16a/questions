@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What is the last name of the developer of the CCPM?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Goldratt"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

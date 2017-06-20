@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The WBS is a ... of project phases, tasks and end products.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "hierarchical organization"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

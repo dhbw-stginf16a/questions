@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The people, material, equipment or facilities required to complete a task are called...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "resources"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "PM"
+}

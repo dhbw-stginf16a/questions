@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Is the characteristical leadership approach dependent on a situation?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "no"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "True or False: SMART is used as a criteria to formulate objectives the proper way.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "True"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

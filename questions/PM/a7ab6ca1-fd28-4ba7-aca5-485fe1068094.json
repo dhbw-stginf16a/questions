@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What is the usage of the GANTT chart?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "illustrates a project schedule over time"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

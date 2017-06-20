@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "A phase is ... of a project.",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "a part"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "the beginning"
+  }, {
+    "index" : 2,
+    "text" : "a part"
+  }, {
+    "index" : 3,
+    "text" : "the end"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name the 3 different kinds of time estimates which should always be made",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "optimistic"
+  }, {
+    "index" : 2,
+    "text" : "pessimistic"
+  }, {
+    "index" : 3,
+    "text" : "most likey"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "PM"
+}

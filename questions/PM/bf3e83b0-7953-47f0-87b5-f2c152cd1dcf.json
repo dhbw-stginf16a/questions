@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What are the 3 different leadership approaches?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "characteristical approach"
+  }, {
+    "index" : 2,
+    "text" : "behavioral approach"
+  }, {
+    "index" : 3,
+    "text" : "situational approach"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "PM"
+}

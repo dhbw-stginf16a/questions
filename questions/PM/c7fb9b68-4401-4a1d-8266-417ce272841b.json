@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Where does the name of the GANTT chart come from?\n",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "from its inventor Henry Gantt"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

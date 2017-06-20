@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The squence of project network activites which add up to the longest overall duration is called the...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "critical path"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "PM"
+}

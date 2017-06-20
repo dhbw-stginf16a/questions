@@ -1,0 +1,31 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name 3 different kinds of power bases.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "reward power"
+  }, {
+    "index" : 2,
+    "text" : "power by legitimation"
+  }, {
+    "index" : 3,
+    "text" : "coercion power"
+  }, {
+    "index" : 4,
+    "text" : "power by personality characteristics"
+  }, {
+    "index" : 5,
+    "text" : "charisma"
+  }, {
+    "index" : 6,
+    "text" : "convictional power"
+  }, {
+    "index" : 7,
+    "text" : "informational power"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "PM"
+}

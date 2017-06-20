@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name the 3 criterias for a Task",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "project activity"
+  }, {
+    "index" : 2,
+    "text" : "starting point"
+  }, {
+    "index" : 3,
+    "text" : "finishing point"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "PM"
+}
