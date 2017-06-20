@@ -5,9 +5,9 @@
   "question" : "Wozu dienen knappe Güter?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Bedürfnisbefriedigung" 
+    "text" : "Bedürfnisbefriedigung"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,
-  "category" : "BWL-Thore"
+  "category" : "Economics"
 }

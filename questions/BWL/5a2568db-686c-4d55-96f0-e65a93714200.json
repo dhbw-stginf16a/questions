@@ -2,12 +2,12 @@
   "type" : "wildcard",
   "difficulty" : 3,
   "status" : "draft",
-  "question" : "Wie lautet das Synonym für Betriebe?",
+  "question" : "Wie lautet das Synonym für Haushalte?",
   "answers" : [ {
     "index" : 1,
     "text" : "Produktionswirtschaften"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "BWL-Thore"
+  "category" : "Economics"
 }
