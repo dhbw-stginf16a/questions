@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "What is the break even point?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "The break even point is the point in time the revenue exceeds the expenditure"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

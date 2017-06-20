@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Worin lassen sich Güter unterscheiden. Nenne zwei Kategorien",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Eigentumsrechte"
+  }, {
+    "index" : 2,
+    "text" : "Verfügbarkeit"
+  }, {
+    "index" : 3,
+    "text" : "Bedürfnisbefriedigung"
+  }, {
+    "index" : 4,
+    "text" : "Beschaffenheit"
+  }, {
+    "index" : 5,
+    "text" : "physikalische Eigenschaften"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Economics"
+}

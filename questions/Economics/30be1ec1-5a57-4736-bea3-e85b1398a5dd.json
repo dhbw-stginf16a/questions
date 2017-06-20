@@ -1,0 +1,37 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Which of the following shares are ordinary shares?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Inhaberaktien"
+  }, {
+    "index" : 2,
+    "text" : "Namensaktien"
+  }, {
+    "index" : 3,
+    "text" : "Vinkulierte Aktien"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Bearer shares"
+  }, {
+    "index" : 2,
+    "text" : "Registered shares"
+  }, {
+    "index" : 3,
+    "text" : "Vinkulated shares"
+  }, {
+    "index" : 4,
+    "text" : "Voting benefits"
+  }, {
+    "index" : 5,
+    "text" : "Dividend benefits"
+  }, {
+    "index" : 6,
+    "text" : "Advantages of the liquidation proceeds"
+  } ],
+  "requiredAnswers" : 3,
+  "category" : "Economics"
+}

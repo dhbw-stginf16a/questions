@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Wozu dienen knappe Güter?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Bedürfnisbefriedigung"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Economics"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "What is a balance sheet?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A balance sheet is a statement of the assets, liabilities, and capital of a business or other organization at a particular point in time, detailing the balance of income and expenditure over the preceding period."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

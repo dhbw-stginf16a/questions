@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "List 3 aspects of corporate behaviour.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Financial management"
+  }, {
+    "index" : 2,
+    "text" : "Employee management"
+  }, {
+    "index" : 3,
+    "text" : "Tone"
+  }, {
+    "index" : 4,
+    "text" : "Reaction to criticism"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Economics"
+}

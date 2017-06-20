@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "What is a franchise?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "A franchise is a cooperation of two parties where one party is the giver and the other party is the taker of the rights to deliver services and goods of a specific brand."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

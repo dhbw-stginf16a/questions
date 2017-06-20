@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "List 3 privileges of a shareholder.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Participation in the general assembly"
+  }, {
+    "index" : 2,
+    "text" : "Right to vote"
+  }, {
+    "index" : 3,
+    "text" : "Right of dividend"
+  }, {
+    "index" : 4,
+    "text" : "Portion of liquidation revenue"
+  }, {
+    "index" : 5,
+    "text" : "Option on new stock"
+  }, {
+    "index" : 6,
+    "text" : "Right for information"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Economics"
+}

@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "List 2 principles of a social marked (e.g. Germany).",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Garanty of social equality"
+  }, {
+    "index" : 2,
+    "text" : "Income distribution in favor of financialy vulnerable people"
+  }, {
+    "index" : 3,
+    "text" : "Social insurance"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Economics"
+}

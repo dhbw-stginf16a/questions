@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Wie viele Nachfrager gibt es bei einem Monopson?",
+  "answers" : [ ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "einen"
+  }, {
+    "index" : 2,
+    "text" : "mehrere"
+  }, {
+    "index" : 3,
+    "text" : "viele"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

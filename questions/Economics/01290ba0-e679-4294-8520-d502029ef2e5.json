@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Bei mehreren Nachfragern und mehreren Anbietern spricht man auch von einem bilateralen [...].",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Oligopol"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

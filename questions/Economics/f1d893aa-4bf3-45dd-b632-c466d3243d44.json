@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "What is a corporate vision?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "The corporate vision is the long term basic idea of the direction a company is heading"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Economics"
+}

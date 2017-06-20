@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "List 2 aspects of corporate communication.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Communication (internal and external)"
+  }, {
+    "index" : 2,
+    "text" : "Advertising"
+  }, {
+    "index" : 3,
+    "text" : "Public relations"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Economics"
+}
