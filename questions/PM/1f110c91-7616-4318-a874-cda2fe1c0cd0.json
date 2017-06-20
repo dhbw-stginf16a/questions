@@ -14,9 +14,9 @@
     "text" : "execute"
   }, {
     "index" : 4,
-    "text" : null
+    "text" : "finalise"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 44,
+  "requiredAnswers" : 4,
   "category" : "PM"
 }
