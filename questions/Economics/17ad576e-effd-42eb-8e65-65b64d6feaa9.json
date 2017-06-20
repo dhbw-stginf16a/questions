@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "review",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "List 3 aspects of corporate behaviour.",
   "answers" : [ {
     "index" : 1,
@@ -18,5 +18,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "BWL"
+  "category" : "Economics"
 }

@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "List 2 pricing mechanisms.",
   "answers" : [ {
     "index" : 1,
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "BWL"
+  "category" : "Economics"
 }

@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Economics is a ...",
   "answers" : [ {
     "index" : 3,
@@ -18,5 +18,5 @@
     "text" : "Cultural Science"
   } ],
   "requiredAnswers" : 1,
-  "category" : "BWL"
+  "category" : "Economics"
 }

@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "review",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "Which entries stand on the passiv side of the balance sheet?",
   "answers" : [ {
     "index" : 3,
@@ -24,5 +24,5 @@
     "text" : "Borrowing"
   } ],
   "requiredAnswers" : 2,
-  "category" : "BWL"
+  "category" : "Economics"
 }

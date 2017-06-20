@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "review",
-  "question" : "List 2 principles of a social marked.",
+  "status" : "approved",
+  "question" : "List 2 principles of a social marked (e.g. Germany).",
   "answers" : [ {
     "index" : 1,
     "text" : "Garanty of social equality"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "BWL"
+  "category" : "Economics"
 }

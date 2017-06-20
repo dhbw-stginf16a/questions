@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "review",
-  "question" : "List 2 aspekts of corporate communication.",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "List 2 aspects of corporate communication.",
   "answers" : [ {
     "index" : 1,
     "text" : "Communication (internal and external)"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "BWL"
+  "category" : "Economics"
 }

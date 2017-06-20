@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "review",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "Which kind of accounting handels the loans and advances to customers?",
   "answers" : [ {
     "index" : 2,
@@ -27,5 +27,5 @@
     "text" : "Inventory accounting"
   } ],
   "requiredAnswers" : 1,
-  "category" : "BWL"
+  "category" : "Economics"
 }

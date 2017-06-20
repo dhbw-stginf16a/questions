@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What is a corporate vision?",
   "answers" : [ {
     "index" : 1,
@@ -9,5 +9,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "BWL"
+  "category" : "Economics"
 }

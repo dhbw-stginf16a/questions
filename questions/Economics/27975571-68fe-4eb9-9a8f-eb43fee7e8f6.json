@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
-  "question" : "List 3 finacial decision criteria.",
+  "status" : "approved",
+  "question" : "List 2 finacial decision criteria.",
   "answers" : [ {
     "index" : 1,
     "text" : "Liquidity"
@@ -14,12 +14,12 @@
     "text" : "Chance-/risk-balance"
   }, {
     "index" : 4,
-    "text" : "Independenc / dependenc"
+    "text" : "Independence / dependence"
   }, {
     "index" : 5,
     "text" : "Sustainability & social responsability"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 3,
-  "category" : "BWL"
+  "requiredAnswers" : 2,
+  "category" : "Economics"
 }

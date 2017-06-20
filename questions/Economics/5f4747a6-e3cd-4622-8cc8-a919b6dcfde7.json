@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Which of the following investments is object related?",
   "answers" : [ {
     "index" : 3,
@@ -36,5 +36,5 @@
     "text" : "Hierarchy related investment"
   } ],
   "requiredAnswers" : 3,
-  "category" : "BWL"
+  "category" : "Economics"
 }
