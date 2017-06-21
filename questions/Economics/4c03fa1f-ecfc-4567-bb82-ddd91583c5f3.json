@@ -1,32 +1,29 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Nenne drei Bedürfnisse des Menschen",
+  "status" : "review",
+  "question" : "Name three needs of a human being.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Grundbedürfnisse"
+    "text" : "Basic needs"
   }, {
     "index" : 2,
-    "text" : "Sicherheit"
+    "text" : "Security"
   }, {
     "index" : 3,
-    "text" : "Soziale Bedürfnisse"
+    "text" : "sozial needs"
   }, {
     "index" : 4,
-    "text" : "Wertschätzung"
+    "text" : "appreciation"
   }, {
     "index" : 5,
-    "text" : "Selbstverwirklichung"
+    "text" : "individual fulfilment"
   }, {
     "index" : 6,
     "text" : "WLAN"
   }, {
     "index" : 7,
-    "text" : "Physiologische Bedürfnisse"
-  }, {
-    "index" : 8,
-    "text" : "Existenzbedürfnisse"
+    "text" : "physiological needs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

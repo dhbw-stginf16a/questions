@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Wie lautet der Fachbegriff für die vollkommene Konkurrenz?",
+  "status" : "review",
+  "question" : "What is the term for absolute competition?\n",
   "answers" : [ {
     "index" : 1,
-    "text" : "Polypol"
+    "text" : "Polypoly"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,

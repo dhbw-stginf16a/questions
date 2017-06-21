@@ -1,17 +1,17 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Woraus setzen sich die Fertigungskosten zusammen?",
+  "status" : "review",
+  "question" : "Into which parts are production costs split up?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Fertigungsgemeinkosten"
+    "text" : "production overhead"
   }, {
     "index" : 2,
-    "text" : "Fertigungslöhne"
+    "text" : "production wages"
   }, {
     "index" : 3,
-    "text" : "Sondereinzelkosten"
+    "text" : "depreciation"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Bei mehreren Nachfragern und mehreren Anbietern spricht man auch von einem bilateralen [...].",
+  "status" : "review",
+  "question" : "A situation of several requestors and several suppliers is also called a bilateral [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Oligopol"
+    "text" : "Oligopoly"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

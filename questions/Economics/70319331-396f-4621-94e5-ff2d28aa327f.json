@@ -1,18 +1,21 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Wie viele Nachfrager gibt es bei einem Monopson?",
-  "answers" : [ ],
+  "status" : "review",
+  "question" : "How many requestors do you have in a so called Monopsony?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "one"
+  } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "einen"
+    "text" : "one"
   }, {
     "index" : 2,
-    "text" : "mehrere"
+    "text" : "a few"
   }, {
     "index" : 3,
-    "text" : "viele"
+    "text" : "many"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

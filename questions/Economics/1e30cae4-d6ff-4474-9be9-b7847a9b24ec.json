@@ -1,20 +1,20 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "In welche Arten von Märkten unterscheidet man? Nenne zwei.",
+  "status" : "review",
+  "question" : "Name two kinds of markets.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Arbeitsmarkt"
+    "text" : "job market"
   }, {
     "index" : 2,
-    "text" : "Absatzmarkt"
+    "text" : "key market"
   }, {
     "index" : 3,
-    "text" : "Kapitalmarkt"
+    "text" : "capital market"
   }, {
     "index" : 4,
-    "text" : "Beschaffungsmarkt"
+    "text" : "procurement market"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

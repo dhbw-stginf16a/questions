@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Bei Schmuck, Zweitwohnung oder Luxusautos handelt es sich um [...].",
+  "status" : "review",
+  "question" : "Jewelry, a second flat or a luxury car are all [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Luxusbedürfnisse"
+    "text" : "luxury needs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

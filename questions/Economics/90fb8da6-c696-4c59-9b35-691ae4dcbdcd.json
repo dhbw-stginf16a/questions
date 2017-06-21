@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "\"Handle so, dass die angestrebten Leistungen mit einem Minimum an Mitteln erreicht werden.\" Bezeichnet das [...]",
+  "difficulty" : 2,
+  "status" : "review",
+  "question" : "Aiming to achieve the desired results with minimimum input is also called [...]?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Optimumprinzip"
+    "text" : "minimum principle"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

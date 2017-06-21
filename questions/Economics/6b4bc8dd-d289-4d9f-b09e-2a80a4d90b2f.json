@@ -1,21 +1,21 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Werden Güter nach der Stellung im Transformationsprozess unterschiedem, so spricht man auch von?",
+  "status" : "review",
+  "question" : "If you distinguish goods from their place in the transformation process, they are categorized in [...]?",
   "answers" : [ {
     "index" : 1,
     "text" : "Input- und Outputgütern"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Input- und Outputgütern"
+    "text" : "input- and outputgoods"
   }, {
     "index" : 2,
-    "text" : "Investitions- und Konsumgüter"
+    "text" : "capital and consumption goods"
   }, {
     "index" : 3,
-    "text" : "materielle- und immaterielle Güter"
+    "text" : "material and immaterial goods"
   } ],
   "requiredAnswers" : 0,
   "category" : "Economics"

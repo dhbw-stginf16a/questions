@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Kosten, die den einzelnen Kostenträgern (Produkten) nicht direkt zugerechnet werden können, wie z. B. Verpackungskosten, Frachtkosten, Lagerkosten oder Prüfkosten gehören in de Kategorie der [...].",
+  "status" : "review",
+  "question" : "Costs, which can not be directly assigned to a single cost object (product), e.g. packing kost, shipping cost storageor appraisal costs, are part of the [..]",
   "answers" : [ {
     "index" : 1,
-    "text" : "Materialgemeinkosten"
+    "text" : "indirect material costs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

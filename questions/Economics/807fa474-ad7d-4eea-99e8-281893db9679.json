@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Wozu dienen knappe Güter?",
+  "status" : "review",
+  "question" : "Wherefor do you need scarce commodities?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Bedürfnisbefriedigung"
+    "text" : "satisfaction of needs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,

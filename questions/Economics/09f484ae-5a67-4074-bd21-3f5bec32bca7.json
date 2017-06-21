@@ -1,18 +1,18 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Wahr oder Falsch?\n\"Mit minimalem Mitteleinsatz maximale Leistungen erbringen.\" beschreibt das Optimumsprinzip.",
+  "status" : "review",
+  "question" : "True or False?\n\"Create maximum output with minimum input\" describes the optimumprinciple.",
   "answers" : [ {
     "index" : 2,
     "text" : "Falsch"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Wahr"
+    "text" : "True"
   }, {
     "index" : 2,
-    "text" : "Falsch"
+    "text" : "False"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"
