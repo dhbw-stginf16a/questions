@@ -1,22 +1,22 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Was zeichnet wirtschaftliches Handeln aus?",
+  "status" : "review",
+  "question" : "What is economic action?",
   "answers" : [ {
     "index" : 1,
     "text" : "Bestehende Güter und Dienstleistungen planvoll einzusetzen."
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Bestehende Güter und Dienstleistungen planvoll einzusetzen."
+    "text" : "The systematic use of given goods and services."
   }, {
     "index" : 2,
-    "text" : "Auf maximalen Profit zu optimieren."
+    "text" : "To optimize for maximum profit"
   }, {
     "index" : 3,
-    "text" : "In den besten Aktienkurs zu investieren."
+    "text" : "To invest into the best stock."
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Economics"
 }

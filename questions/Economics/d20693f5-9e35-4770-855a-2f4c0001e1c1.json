@@ -1,14 +1,14 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Aus welchen zwei Kosten setzen sich die Herstellungskosten zusammen?",
+  "status" : "review",
+  "question" : "In which two costs are production costs split up?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Materialkosten"
+    "text" : "material costs"
   }, {
     "index" : 2,
-    "text" : "Fertigungskosten"
+    "text" : "manufacturing costs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

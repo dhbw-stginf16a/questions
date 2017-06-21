@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "\"Handle so, dass die Leistungen bei gegebenem Mitteleinsatz möglichst groß werden.\" Bezeichnet das [...]",
+  "status" : "review",
+  "question" : "Trying to get the most out of a given input describes the [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Maximumprinzip"
+    "text" : "maximum principle"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

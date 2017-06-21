@@ -1,27 +1,21 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Als welche Art von Gut ist eine Bohrmaschine in einem Haushalt zu klassifizieren?",
+  "difficulty" : 2,
+  "status" : "review",
+  "question" : "What kind of of good is a drill in a household?",
   "answers" : [ {
     "index" : 1,
     "text" : "Gebrauchsgut"
-  }, {
-    "index" : 4,
-    "text" : "Konsumgut"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Unfertiges Erzeugnis"
+    "text" : "consumer goods"
   }, {
     "index" : 2,
-    "text" : "Fertiges Erzeugnis"
+    "text" : "consumables"
   }, {
     "index" : 3,
-    "text" : "Eigenleistung"
-  }, {
-    "index" : 4,
-    "text" : "Ware"
+    "text" : "capital good"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

@@ -1,23 +1,23 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Worin lassen sich Güter unterscheiden. Nenne zwei Kategorien",
+  "status" : "review",
+  "question" : "How can you categorize goods? Name two.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Eigentumsrechte"
+    "text" : "property rights"
   }, {
     "index" : 2,
-    "text" : "Verfügbarkeit"
+    "text" : "availability"
   }, {
     "index" : 3,
-    "text" : "Bedürfnisbefriedigung"
+    "text" : "satisfaction of needs"
   }, {
     "index" : 4,
-    "text" : "Beschaffenheit"
+    "text" : "quality"
   }, {
     "index" : 5,
-    "text" : "physikalische Eigenschaften"
+    "text" : "physical properties"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

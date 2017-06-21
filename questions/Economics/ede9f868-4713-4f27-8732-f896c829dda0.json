@@ -2,17 +2,17 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Wahr oder Falsch?\n\"Die Vollkostenrechnung enthält die Systeme der Kostenrechnung, in denen alle Kosten der Erstellung und Verwertung von Leistungen auf den Kostenträger verrechnet werden.\"",
+  "question" : "True or False?\n\"Die Vollkostenrechnung enthält die Systeme der Kostenrechnung, in denen alle Kosten der Erstellung und Verwertung von Leistungen auf den Kostenträger verrechnet werden.\"\nFull-cost-accounting contains all parts of cost-accounting, where costs of manufacturing and processing of a single cost object are summed up.",
   "answers" : [ {
     "index" : 1,
     "text" : "Wahr"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Wahr"
+    "text" : "True"
   }, {
     "index" : 2,
-    "text" : "Falsch"
+    "text" : "False"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"
