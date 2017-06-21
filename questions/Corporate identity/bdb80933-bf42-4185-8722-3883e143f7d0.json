@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What is a brand?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A brand is more than just a logo, advertising slogan, product or service. It encompasses how you manage your customer relationships and how you are perceived as a business."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Corporate identity"
+}

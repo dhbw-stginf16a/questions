@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the three product levels?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Core product"
+  }, {
+    "index" : 2,
+    "text" : "Actual product"
+  }, {
+    "index" : 3,
+    "text" : "Agumented product"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing- Product"
+}

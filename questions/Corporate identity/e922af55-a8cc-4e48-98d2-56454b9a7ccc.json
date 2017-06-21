@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Name three parts of the corporate behaviour.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Internal values"
+  }, {
+    "index" : 2,
+    "text" : "Internal norms"
+  }, {
+    "index" : 3,
+    "text" : "Internal \"rules\""
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Corporate identity"
+}

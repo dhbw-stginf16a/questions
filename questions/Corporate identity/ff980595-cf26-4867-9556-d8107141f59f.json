@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the internal factors of the corporate identity?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Product"
+  }, {
+    "index" : 2,
+    "text" : "Staff"
+  }, {
+    "index" : 3,
+    "text" : "Production Capacity"
+  }, {
+    "index" : 4,
+    "text" : "Operating cash reserve"
+  }, {
+    "index" : 5,
+    "text" : "Location"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "Corporate identity"
+}

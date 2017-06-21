@@ -1,0 +1,16 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Define \"Product\".",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A product is anything that can be offered to a market for attention, acquisition, use or consumption that might satisfy a want or need."
+  }, {
+    "index" : 2,
+    "text" : "Broadly defined, products consist of anything that can be marketed, including physical objects, services, persons, places, organizations and ideas."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing- Product"
+}

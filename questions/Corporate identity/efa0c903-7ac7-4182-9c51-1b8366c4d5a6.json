@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the three parts of the corporate identity?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Corporate design"
+  }, {
+    "index" : 2,
+    "text" : "Corporate communication"
+  }, {
+    "index" : 3,
+    "text" : "Corporate behaviour"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Corporate identity"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The ... refers to the service or tangible good that satisfies the target customer's wants- it is obviously first essential that a real target market is identified, quantified and justified.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Product"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

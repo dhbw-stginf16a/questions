@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "What are the properties on the USP?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Verteidigungsfähigkeit "
+  }, {
+    "index" : 2,
+    "text" : "Zielgruppenorientierung"
+  }, {
+    "index" : 3,
+    "text" : "Wirtschaftlichkeit"
+  }, {
+    "index" : 4,
+    "text" : "Preis, Qualität und Spezial Features"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Corporate identity"
+}

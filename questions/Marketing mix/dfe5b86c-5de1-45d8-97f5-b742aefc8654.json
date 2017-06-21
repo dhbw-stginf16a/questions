@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "... includes Advertising, PR, Event Marketing, Online Marketing, Direct Marketing, Personal Selling, Channel Marketing and Alliances.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Promotion"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

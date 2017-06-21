@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "How is the brand awareness determined.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "The brand awareness is determined trough surveys of different targetgroups (exp. first thought on a picture)."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Corporate identity"
+}

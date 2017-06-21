@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Define \"Marketing Strategy\".",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "a broad plan for using an organization's resources to meet its marketing objectives"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing mix"
+}

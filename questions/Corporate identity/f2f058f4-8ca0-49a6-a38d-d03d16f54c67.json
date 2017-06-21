@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Define \"Brand Loyality\".",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Brand Loyality descripes the customers purchasing behaviour (example rebuying)."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Corporate identity"
+}

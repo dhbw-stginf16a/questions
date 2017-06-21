@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the four parts of a brand?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Perceived Quality"
+  }, {
+    "index" : 2,
+    "text" : "Brand Awareness"
+  }, {
+    "index" : 3,
+    "text" : "Brand Loyalty"
+  }, {
+    "index" : 4,
+    "text" : "Brand Association"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Corporate identity"
+}

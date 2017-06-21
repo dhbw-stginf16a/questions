@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the external factors of the corporate identity?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Market"
+  }, {
+    "index" : 2,
+    "text" : "Economy"
+  }, {
+    "index" : 3,
+    "text" : "Government policy/legislation"
+  }, {
+    "index" : 4,
+    "text" : "Competitors"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Corporate identity"
+}

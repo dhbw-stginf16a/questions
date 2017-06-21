@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What is a lable (Marke)?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A mark is a trademark is a name, logo or symbol which expresses uniqueness."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Corporate identity"
+}

@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What are the Four \"P's\"?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Product"
+  }, {
+    "index" : 2,
+    "text" : "Price"
+  }, {
+    "index" : 3,
+    "text" : "Promo"
+  }, {
+    "index" : 4,
+    "text" : "Place"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Marketing mix"
+}
