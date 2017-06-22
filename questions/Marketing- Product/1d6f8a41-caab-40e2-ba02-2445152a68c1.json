@@ -1,11 +1,11 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
-  "question" : "What does the actual product consist?",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "What does the actual product consist? (List 5 things)",
   "answers" : [ {
     "index" : 1,
-    "text" : "Packagin"
+    "text" : "Packaging"
   }, {
     "index" : 2,
     "text" : "Features"
@@ -23,6 +23,6 @@
     "text" : "Design"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 4,
+  "requiredAnswers" : 5,
   "category" : "Marketing- Product"
 }

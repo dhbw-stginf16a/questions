@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Name at least 4 kind of products.",
   "answers" : [ {
     "index" : 1,

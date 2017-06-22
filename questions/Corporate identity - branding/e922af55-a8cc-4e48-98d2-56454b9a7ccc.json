@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Name three parts of the corporate behaviour.",
+  "status" : "approved",
+  "question" : "Name one part of the corporate behaviour.",
   "answers" : [ {
     "index" : 1,
     "text" : "Internal values"
@@ -14,6 +14,6 @@
     "text" : "Internal \"rules\""
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 3,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 1,
+  "category" : "Corporate identity - branding"
 }

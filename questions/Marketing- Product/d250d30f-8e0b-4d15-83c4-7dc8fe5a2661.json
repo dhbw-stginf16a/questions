@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "What are the seven important aspects about naming your product/business/website?",
+  "status" : "approved",
+  "question" : "What are the six important aspects about naming your product/business/website?",
   "answers" : [ {
     "index" : 1,
     "text" : "Be easy to pronounce and spell."
@@ -11,21 +11,18 @@
     "text" : "Be memorable."
   }, {
     "index" : 3,
-    "text" : "Do not be to specific in naming [example: Dave's 256k Flash Drives Inc.]."
+    "text" : "Do not be to specific in naming"
   }, {
     "index" : 4,
-    "text" : "No negative connotations (remind other languages)."
-  }, {
-    "index" : 5,
-    "text" : null
+    "text" : "No negative connotations "
   }, {
     "index" : 6,
-    "text" : "Make sure your name does not alienate any group (race, religion, etc.)."
+    "text" : "Make sure your name does not alienate any group "
   }, {
     "index" : 7,
     "text" : "Search for existing trademarks."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 5,
+  "requiredAnswers" : 6,
   "category" : "Marketing- Product"
 }

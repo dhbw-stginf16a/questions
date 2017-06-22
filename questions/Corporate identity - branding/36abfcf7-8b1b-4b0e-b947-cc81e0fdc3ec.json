@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What are the four parts of a brand?",
   "answers" : [ {
     "index" : 1,
@@ -18,5 +18,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,
-  "category" : "Corporate identity"
+  "category" : "Corporate identity - branding"
 }

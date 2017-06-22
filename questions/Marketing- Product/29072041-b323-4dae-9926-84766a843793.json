@@ -1,13 +1,13 @@
 {
   "type" : "wildcard",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 1,
+  "status" : "approved",
   "question" : "What does the core benefit consist?",
   "answers" : [ {
     "index" : 1,
     "text" : "It consists of the problem-solving services or core benefits that consumers obtain when they buy a product."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Marketing- Product"
 }

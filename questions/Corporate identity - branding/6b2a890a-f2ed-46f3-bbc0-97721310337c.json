@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Which properties influence the brand assosiation (name at least 5)?",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Which properties influence the brand assosiation (name at least 2)?",
   "answers" : [ {
     "index" : 1,
     "text" : "Colour"
@@ -26,6 +26,6 @@
     "text" : "Sponsoring and popular advertiser"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 5,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 2,
+  "category" : "Corporate identity - branding"
 }

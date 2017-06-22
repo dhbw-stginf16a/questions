@@ -1,13 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "What does \"USP\" mean?",
   "answers" : [ {
     "index" : 1,
     "text" : "Unique Selling Proposition"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 1,
+  "category" : "Corporate identity - branding"
 }

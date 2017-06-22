@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
-  "difficulty" : 2,
-  "status" : "draft",
-  "question" : "To ensure that the marketing mix is managed, it is essential to develop a ... which is formalized in a Marketing Plan .",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "To ensure that the marketing mix is managed, it is essential to develop a ... which is formalized in a Marketing Plan.",
   "answers" : [ {
     "index" : 1,
     "text" : "Marketing strategy"

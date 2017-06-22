@@ -1,13 +1,13 @@
 {
   "type" : "wildcard",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 1,
+  "status" : "approved",
   "question" : "What is a trademark?",
   "answers" : [ {
     "index" : 1,
     "text" : "A trademark is a name, logo or symbol which expresses uniqueness."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Corporate identity - branding"
 }

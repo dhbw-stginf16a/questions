@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "What are the external factors of the corporate identity?",
+  "status" : "approved",
+  "question" : "Name 2 external factors of the corporate identity?",
   "answers" : [ {
     "index" : 1,
     "text" : "Market"
@@ -17,6 +17,6 @@
     "text" : "Competitors"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 4,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 2,
+  "category" : "Corporate identity - branding"
 }

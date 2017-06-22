@@ -1,11 +1,11 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Explaine the four parts of the branding pyramid with the example of a car.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Attribute level - drives you from A to B"
+    "text" : "Attribute level / Core benefit - drives you from A to B"
   }, {
     "index" : 2,
     "text" : "Functional benefit - drives you fast and secure from A to B"
@@ -18,5 +18,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,
-  "category" : "Corporate identity"
+  "category" : "Corporate identity - branding"
 }
