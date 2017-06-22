@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "review",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "Wherefor do you need scarce commodities?",
   "answers" : [ {
     "index" : 1,
-    "text" : "satisfaction of needs"
+    "text" : "Satisfaction of needs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,

@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Air, sun and water can also be called [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "free goods"
+    "text" : "Free goods"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

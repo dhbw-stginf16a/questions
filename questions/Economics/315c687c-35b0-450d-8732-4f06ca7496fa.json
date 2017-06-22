@@ -1,6 +1,6 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
+  "difficulty" : 2,
   "status" : "approved",
   "question" : "What is a balance sheet?",
   "answers" : [ {

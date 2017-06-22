@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Aiming to achieve the desired results with minimimum input is also called [...]?",
   "answers" : [ {
     "index" : 1,
-    "text" : "minimum principle"
+    "text" : "Minimum principle"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

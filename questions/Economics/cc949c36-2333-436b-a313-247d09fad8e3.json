@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What kind of good is paper in a stationary shop?",
   "answers" : [ {
     "index" : 4,
@@ -9,16 +9,16 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "unfinished product"
+    "text" : "Unfinished product"
   }, {
     "index" : 2,
-    "text" : "finished product"
+    "text" : "Finished product"
   }, {
     "index" : 3,
-    "text" : "internal labour"
+    "text" : "Internal labour"
   }, {
     "index" : 4,
-    "text" : "commodity"
+    "text" : "Commodity"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

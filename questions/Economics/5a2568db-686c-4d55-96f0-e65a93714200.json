@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What is the synonyme for a household?",
   "answers" : [ {
     "index" : 1,
-    "text" : "consumption economy"
+    "text" : "Consumption economy"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
