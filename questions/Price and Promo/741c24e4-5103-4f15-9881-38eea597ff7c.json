@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Charging a price that is low relative to the competitors' prices and what the customers is accustomed to pay is called ...?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Penetration pricing"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

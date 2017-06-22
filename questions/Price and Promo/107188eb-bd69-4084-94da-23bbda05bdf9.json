@@ -1,0 +1,19 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Free sources for secondary research are ..?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Public sources"
+  }, {
+    "index" : 2,
+    "text" : "Commercial sources"
+  }, {
+    "index" : 3,
+    "text" : "Educational institutions"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

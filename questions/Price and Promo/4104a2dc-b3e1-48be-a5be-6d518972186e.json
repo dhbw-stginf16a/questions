@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name 3 factors that are important for the decision between a direct or an indirect distribution!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "product related"
+  }, {
+    "index" : 2,
+    "text" : "customer related"
+  }, {
+    "index" : 3,
+    "text" : "competition related"
+  }, {
+    "index" : 4,
+    "text" : "company related"
+  }, {
+    "index" : 5,
+    "text" : "distribution agent related"
+  }, {
+    "index" : 6,
+    "text" : "environment related"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

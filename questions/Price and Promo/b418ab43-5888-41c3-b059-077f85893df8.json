@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Partitioning means seperating customers in groups of different ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "willingness to pay"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

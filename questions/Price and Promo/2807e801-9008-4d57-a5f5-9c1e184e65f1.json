@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What does reservation price mean?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "The highest price the customer would pay."
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "The lowest price the producer can offer."
+  }, {
+    "index" : 2,
+    "text" : "The highest price the customer would pay."
+  }, {
+    "index" : 3,
+    "text" : "The highest price the boss thinks of."
+  }, {
+    "index" : 4,
+    "text" : "The lowest price other competitors offer."
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name all 3 fields of market research!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Customer (consumer)"
+  }, {
+    "index" : 2,
+    "text" : "Competitors (market)"
+  }, {
+    "index" : 3,
+    "text" : "Product"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

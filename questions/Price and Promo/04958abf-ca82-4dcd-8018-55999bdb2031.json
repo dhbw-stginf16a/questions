@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "If a company has more than one distribution channel at the same time, than it is named ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "multi channel distribution"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

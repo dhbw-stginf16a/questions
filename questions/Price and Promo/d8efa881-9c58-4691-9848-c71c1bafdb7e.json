@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The type of research which is already compiled and organized is called ..?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Secondary information"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

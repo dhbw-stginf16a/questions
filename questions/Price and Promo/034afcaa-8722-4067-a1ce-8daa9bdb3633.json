@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Selling a set of different products with a lower price is called ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Bundle pricing"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

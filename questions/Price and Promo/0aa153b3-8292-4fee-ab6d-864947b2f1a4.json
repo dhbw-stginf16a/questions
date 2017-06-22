@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What does \"cross-benefits pricing\" means?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Set the price for a product below the costs, but higher the price for another product which serves as a direct complement. (e.g. film and camera)"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "In ... you gather data and information at colleges and/or universities.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Educational institutions"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

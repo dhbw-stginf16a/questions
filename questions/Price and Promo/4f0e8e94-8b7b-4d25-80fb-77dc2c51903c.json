@@ -1,0 +1,19 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "A perfect price differentiation is only achievable, if ... (name 2 answers)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "The individual price a customer would pay is known."
+  }, {
+    "index" : 2,
+    "text" : "It is possible to offer personalized prices."
+  }, {
+    "index" : 3,
+    "text" : "Resale is forbidden."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Price and Promo"
+}

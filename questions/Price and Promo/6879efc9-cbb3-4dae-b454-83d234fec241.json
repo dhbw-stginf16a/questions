@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The ... is a tool for communicating with customers and influencing the way they buy.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "price"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

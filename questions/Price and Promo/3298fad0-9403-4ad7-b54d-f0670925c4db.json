@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name 2 pricing objectives!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Market share"
+  }, {
+    "index" : 2,
+    "text" : "Return on investment"
+  }, {
+    "index" : 3,
+    "text" : "Sales growth"
+  }, {
+    "index" : 4,
+    "text" : "Maximize long-run profit"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

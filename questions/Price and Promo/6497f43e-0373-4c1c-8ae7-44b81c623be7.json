@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "In market research are different types of data, which one is the mostly used?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Secondary"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Primary"
+  }, {
+    "index" : 2,
+    "text" : "Secondary"
+  }, {
+    "index" : 3,
+    "text" : "Tertiary"
+  }, {
+    "index" : 4,
+    "text" : "Quaternary"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}
