@@ -1,14 +1,14 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Nenne einen anderen Begriff für ein unfertiges Erzeugnis.",
+  "status" : "review",
+  "question" : "What is another name for an unfinished product?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Halbfabrikat"
+    "text" : "semi-finished product"
   }, {
     "index" : 2,
-    "text" : "Zwischenerzeugnis"
+    "text" : "interim result"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
