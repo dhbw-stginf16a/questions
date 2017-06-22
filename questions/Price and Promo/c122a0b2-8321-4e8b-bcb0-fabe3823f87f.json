@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What does MSRP stands for?",
   "answers" : [ {
     "index" : 1,

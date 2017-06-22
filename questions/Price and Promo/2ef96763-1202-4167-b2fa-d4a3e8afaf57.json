@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Public sources, commercial sources and educational institutions are sources of ... ?",
   "answers" : [ {
     "index" : 1,

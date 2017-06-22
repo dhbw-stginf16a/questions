@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "review",
   "question" : "The type of research which is already compiled and organized is called ..?",
   "answers" : [ {
     "index" : 1,

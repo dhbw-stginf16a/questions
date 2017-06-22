@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Market research in case of customers is called ... ?",
   "answers" : [ {
     "index" : 1,

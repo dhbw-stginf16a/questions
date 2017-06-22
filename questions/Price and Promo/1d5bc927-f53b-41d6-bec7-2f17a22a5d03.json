@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "In ... you gather data and information at colleges and/or universities.",
   "answers" : [ {
     "index" : 1,
