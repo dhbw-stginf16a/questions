@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "What are the names of the different types of data market research involves?",
   "answers" : [ {
     "index" : 1,

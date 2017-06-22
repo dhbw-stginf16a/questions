@@ -1,0 +1,28 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "If a circus is coming to town and you paint a sign saying \"Circus Coming to the Fairground Saturday\". That is ...",
+  "answers" : [ {
+    "index" : 4,
+    "text" : "Advertising"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Relations"
+  }, {
+    "index" : 2,
+    "text" : "Publicity"
+  }, {
+    "index" : 3,
+    "text" : "Promotion"
+  }, {
+    "index" : 4,
+    "text" : "Advertising"
+  }, {
+    "index" : 5,
+    "text" : "Marketing"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

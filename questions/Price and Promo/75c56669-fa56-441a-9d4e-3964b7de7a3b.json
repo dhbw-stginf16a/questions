@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "review",
   "question" : "Information for market research compiled by you or someone you hired is called ..?",
   "answers" : [ {
     "index" : 1,

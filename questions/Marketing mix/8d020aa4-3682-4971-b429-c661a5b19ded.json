@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Name at least two examples for \"Opportunities\" (SWOT analysis).",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Huge demand"
+  }, {
+    "index" : 2,
+    "text" : "No competitors"
+  }, {
+    "index" : 3,
+    "text" : "Good market situation - low taxes"
+  }, {
+    "index" : 4,
+    "text" : "Trends"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Marketing mix"
+}

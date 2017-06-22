@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "The ... is a tool for communicating with customers and influencing the way they buy.",
   "answers" : [ {
     "index" : 1,

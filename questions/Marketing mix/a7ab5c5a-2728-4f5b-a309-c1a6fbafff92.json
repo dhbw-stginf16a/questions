@@ -1,0 +1,28 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "If a circus is coming to town and you put a sign saying \"Circus Coming to the Fairground Saturday\" on the back of the elephant and walk him into town. That is ...",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Promotion"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Relations"
+  }, {
+    "index" : 2,
+    "text" : "Publicity"
+  }, {
+    "index" : 3,
+    "text" : "Promotion"
+  }, {
+    "index" : 4,
+    "text" : "Advertising"
+  }, {
+    "index" : 5,
+    "text" : "Marketing"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

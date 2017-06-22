@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What does the abbreviation \"SWOT\" mean?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Strenghts"
+  }, {
+    "index" : 2,
+    "text" : "Weaknesses"
+  }, {
+    "index" : 3,
+    "text" : "Opportunities"
+  }, {
+    "index" : 4,
+    "text" : "Threats"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Marketing mix"
+}

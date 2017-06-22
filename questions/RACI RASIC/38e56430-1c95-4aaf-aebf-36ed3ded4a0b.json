@@ -1,8 +1,8 @@
 {
-  "type" : "list",
+  "type" : "wildcard",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Wie nennt man denjendigen, der die Arbeit genehmigen muss? (engl.)",
+  "question" : "How do you call the party that reviews and assures the work product's quality?",
   "answers" : [ {
     "index" : 1,
     "text" : "Accountable (Approver)"

@@ -1,18 +1,21 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 2,
+  "difficulty" : 1,
   "status" : "draft",
-  "question" : "Was wird ein Projektmanager eher nicht tun?",
-  "answers" : [ ],
+  "question" : "What would a Project Manager likley not do?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "End a project because of frustration"
+  } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Einen Bericht nach derm Projekt anfertigen /*dies wird regelmäßig gemacht, daher falsch*/"
+    "text" : "Plan and manage day-to-day delivery"
   }, {
     "index" : 2,
-    "text" : "Ein Umfeld schaffen, das niemanden ausschließt"
+    "text" : "End a project because of frustration"
   }, {
     "index" : 3,
-    "text" : "Teambuilding fördern"
+    "text" : "Make decisions"
   } ],
   "requiredAnswers" : 1,
   "category" : "Projekt Manager"

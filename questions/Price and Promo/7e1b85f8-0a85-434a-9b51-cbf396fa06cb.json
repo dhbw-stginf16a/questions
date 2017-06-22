@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "review",
   "question" : "What is the difference between the pricing objectives \"market share\" and \"sales growth\" ?",
   "answers" : [ {
     "index" : 1,

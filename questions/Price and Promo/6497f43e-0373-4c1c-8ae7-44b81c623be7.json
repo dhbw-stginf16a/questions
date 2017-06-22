@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "In market research are different types of data, which one is the mostly used?",
   "answers" : [ {
     "index" : 2,

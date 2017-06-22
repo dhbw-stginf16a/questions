@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Wer erfüllt die Aufgabe den aktuellen Wissensstand des Projektes zu besitzen?#",
+  "question" : "In context with RACI: who is kept up-to-date on the project progress?",
   "answers" : [ {
     "index" : 1,
     "text" : "Informed (Informee)"

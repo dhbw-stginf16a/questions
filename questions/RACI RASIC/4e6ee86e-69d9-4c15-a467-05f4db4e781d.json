@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Welche Kommunikation gibt es mit einem Informee?",
+  "question" : "Which way of communication do you have as an Informee?",
   "answers" : [ {
     "index" : 1,
     "text" : "one-way communication"

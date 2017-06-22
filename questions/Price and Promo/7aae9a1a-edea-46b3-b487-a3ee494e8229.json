@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "review",
   "question" : "Name 2 advantages of a direct distribution!",
   "answers" : [ {
     "index" : 1,

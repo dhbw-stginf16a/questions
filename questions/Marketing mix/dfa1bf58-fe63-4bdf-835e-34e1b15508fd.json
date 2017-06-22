@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "If the circus is coming to town, you put a sign on the back of an elephant and walk him into town and the elephant walks through the mayor's flowerbed. That is...",
+  "answers" : [ ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Relations"
+  }, {
+    "index" : 2,
+    "text" : "Publicity"
+  }, {
+    "index" : 3,
+    "text" : "Promotion"
+  }, {
+    "index" : 4,
+    "text" : "Advertising"
+  }, {
+    "index" : 5,
+    "text" : "Marketing"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

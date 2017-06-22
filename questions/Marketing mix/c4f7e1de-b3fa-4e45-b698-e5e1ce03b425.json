@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the  intern parts of the \"SWOT\" analysis?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Strenghts"
+  }, {
+    "index" : 2,
+    "text" : "Weaknesses"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Marketing mix"
+}

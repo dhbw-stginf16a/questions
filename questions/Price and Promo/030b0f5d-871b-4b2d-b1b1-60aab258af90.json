@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "review",
   "question" : "Gathering information and data to help solve marketing challenges that a business will most likely face is called ...",
   "answers" : [ {
     "index" : 1,

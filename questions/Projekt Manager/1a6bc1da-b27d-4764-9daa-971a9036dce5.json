@@ -1,23 +1,23 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Nenne drei Zuständigkeiten eines Projektmanagers",
+  "question" : "Count three responsibilities of a Project Manager",
   "answers" : [ {
     "index" : 1,
-    "text" : "Kommunizieren (Comunicating)"
+    "text" : "Comunicating"
   }, {
     "index" : 2,
-    "text" : "Planen (Planning)"
+    "text" : "Planning"
   }, {
     "index" : 3,
-    "text" : "Verhandeln (Negotiating)"
+    "text" : "Negotiating"
   }, {
     "index" : 4,
     "text" : "Coaching"
   }, {
     "index" : 5,
-    "text" : "Entscheidungen treffen (Decision-making)"
+    "text" : "Decision-making"
   }, {
     "index" : 6,
     "text" : "Leadership"

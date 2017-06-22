@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Name 2 pricing objectives!",
   "answers" : [ {
     "index" : 1,
@@ -17,6 +17,6 @@
     "text" : "Maximize long-run profit"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 2,
   "category" : "Price and Promo"
 }

@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "Name 3 factors that are important for the decision between a direct or an indirect distribution!",
   "answers" : [ {
     "index" : 1,
@@ -23,6 +23,6 @@
     "text" : "environment related"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 3,
   "category" : "Price and Promo"
 }

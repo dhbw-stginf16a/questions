@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "review",
   "question" : "The pricing strategie ... is a good way to discourage market entries by new competitors or get rid off old ones.",
   "answers" : [ {
     "index" : 1,

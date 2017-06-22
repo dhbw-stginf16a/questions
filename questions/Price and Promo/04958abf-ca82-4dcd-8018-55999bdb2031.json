@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "If a company has more than one distribution channel at the same time, than it is named ...",
   "answers" : [ {
     "index" : 1,
