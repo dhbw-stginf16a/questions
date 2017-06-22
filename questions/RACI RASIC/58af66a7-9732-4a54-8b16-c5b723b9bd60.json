@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 2,
+  "difficulty" : 3,
   "status" : "draft",
-  "question" : "Für welche fünf Begriffe steht RASIC? (engl.)",
+  "question" : "List all designitions in the RASIC-approach.",
   "answers" : [ {
     "index" : 1,
     "text" : "Responsible"

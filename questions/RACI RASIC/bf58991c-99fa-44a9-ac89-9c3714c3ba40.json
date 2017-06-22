@@ -1,8 +1,8 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 3,
+  "difficulty" : 2,
   "status" : "draft",
-  "question" : "Welche Variation des RASIC-Modelles gibt es wirklich?",
+  "question" : "Which variation of the RASIC-approach does realy exist?",
   "answers" : [ {
     "index" : 1,
     "text" : "RACI-VS"

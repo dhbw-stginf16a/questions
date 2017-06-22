@@ -2,20 +2,20 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Was ist die RASIC-Matrix und wofür wird sie benutzt?",
+  "question" : "What is the RASIC-Matrix?",
   "answers" : [ {
     "index" : 1,
     "text" : "Management Tool zur Rollenverteilung in einem Projekt"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Management Tool zur Rollenverteilung in einem Projekt"
+    "text" : "Management tool"
   }, {
     "index" : 2,
-    "text" : "Management Tool zur Produktklassifizierung"
+    "text" : "Calculation algorithm"
   }, {
     "index" : 3,
-    "text" : "Staatlich festgelegte Regel zur Rollenverteilung von Arbeitsabläufen"
+    "text" : "Management rule"
   } ],
   "requiredAnswers" : 1,
   "category" : "RACI RASIC"

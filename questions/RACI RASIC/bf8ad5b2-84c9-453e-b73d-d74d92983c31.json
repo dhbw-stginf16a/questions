@@ -1,11 +1,11 @@
 {
-  "type" : "fillIn",
+  "type" : "wildcard",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Wie nennt man Fachleute, deren Meinung oft eingeholt wird?",
+  "question" : "In context with RACI: who do you call someone whose opinions are sought, typically a subject matter expert.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Berater (Consultant)"
+    "text" : "Consultant"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
