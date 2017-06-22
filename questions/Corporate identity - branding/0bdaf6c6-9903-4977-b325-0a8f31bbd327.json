@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "What are the two most common trademarks?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Designation mark"
+  }, {
+    "index" : 2,
+    "text" : null
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Corporate identity - branding"
+}

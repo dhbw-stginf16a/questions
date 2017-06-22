@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Your logo should....",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Refelct your company in a unique and honest way."
+  }, {
+    "index" : 2,
+    "text" : "Contain a symbol which is relate to your industry, your name, a defining charactereistic of your company or a competitive advantage you offer."
+  }, {
+    "index" : 3,
+    "text" : "Work in black and white as well as in colour."
+  }, {
+    "index" : 4,
+    "text" : "Be scalable."
+  }, {
+    "index" : 5,
+    "text" : "Be symmetric."
+  }, {
+    "index" : 6,
+    "text" : "Have a closed and clear shape."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Corporate identity - branding"
+}
