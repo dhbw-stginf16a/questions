@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name at least two examples for places as products.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Hotel"
+  }, {
+    "index" : 2,
+    "text" : "Rented flat"
+  }, {
+    "index" : 3,
+    "text" : "Stores"
+  }, {
+    "index" : 4,
+    "text" : "Fields"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing- Product"
+}
