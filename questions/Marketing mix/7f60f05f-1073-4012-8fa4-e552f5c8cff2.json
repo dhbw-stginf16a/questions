@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "Name at least two examples for \"Strenghts\" (SWOT analysis).",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "USP"
+  }, {
+    "index" : 2,
+    "text" : "Price"
+  }, {
+    "index" : 3,
+    "text" : "Quality"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing mix"
+}
