@@ -2,23 +2,23 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Was ist für einen Projektmanager wichtiger?",
+  "question" : "What is most important for a Project Manager?",
   "answers" : [ {
     "index" : 3,
     "text" : "beides in gleichem Maß"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Technische Fähigkeiten"
+    "text" : "technical skills"
   }, {
     "index" : 2,
-    "text" : "Verhaltensfähigkeiten"
+    "text" : "behavior skills"
   }, {
     "index" : 3,
-    "text" : "beides in gleichem Maß"
+    "text" : "both in the same quantaties"
   }, {
     "index" : 4,
-    "text" : "gut aussehen"
+    "text" : "externally occur"
   } ],
   "requiredAnswers" : 1,
   "category" : "Projekt Manager"

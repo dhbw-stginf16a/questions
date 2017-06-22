@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Welche Variation des RASIC-Modells gibt es nicht?",
+  "question" : "Which variant of the RASIC does not exist?",
   "answers" : [ {
     "index" : 4,
     "text" : "RADI"

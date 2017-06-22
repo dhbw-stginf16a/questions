@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "draft",
+  "question" : "Does a Project Manager rather need technical oder behavior skills?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Both the same"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Projekt Manager"
+}

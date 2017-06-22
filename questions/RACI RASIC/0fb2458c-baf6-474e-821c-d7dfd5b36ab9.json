@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Welche Bedeutung besitzt das O in der erweiterten Variante CAIRO des RACI-Modells? (engl.)\n",
+  "question" : "Which meaning does 'O' in the expended RACI version CAIRO has?",
   "answers" : [ {
     "index" : 1,
     "text" : "Out of the loop (or omitted)"

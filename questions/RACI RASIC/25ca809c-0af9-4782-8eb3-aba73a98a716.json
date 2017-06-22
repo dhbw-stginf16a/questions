@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Nenne drei Begriffe des DACI",
+  "question" : "List three items of the DACI.",
   "answers" : [ {
     "index" : 1,
     "text" : "Driver"

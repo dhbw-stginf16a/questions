@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 1,
+  "difficulty" : 2,
   "status" : "draft",
-  "question" : "Eine Variation des RASIC-Modells ist RAPID. Nenne zwei Begriffe. (engl.)",
+  "question" : "A variation of the RASIC-approach is called RAPID. List two designations.",
   "answers" : [ {
     "index" : 1,
     "text" : "Perform"

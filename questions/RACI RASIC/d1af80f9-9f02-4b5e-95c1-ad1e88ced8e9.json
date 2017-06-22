@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "draft",
-  "question" : "Welche Variationen des RASIC-Modells gibt es wirklich?",
+  "question" : "Which variant of the RASIC does realy exist?",
   "answers" : [ {
     "index" : 3,
     "text" : "CAIRO"
