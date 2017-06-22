@@ -1,18 +1,18 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Handelt es sich bei Nahrung, Kleidung und Unterkunft um Grundbedürfnisse?",
+  "difficulty" : 3,
+  "status" : "review",
+  "question" : "Are food, clothes and accommodation basic needs?",
   "answers" : [ {
     "index" : 2,
     "text" : "Nein"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Ja"
+    "text" : "Yes"
   }, {
     "index" : 2,
-    "text" : "Nein"
+    "text" : "No"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

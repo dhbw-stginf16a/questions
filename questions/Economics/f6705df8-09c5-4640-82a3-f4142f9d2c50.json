@@ -1,29 +1,29 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Nenne vier Stakeholder",
+  "difficulty" : 2,
+  "status" : "review",
+  "question" : "Name four stakeholders",
   "answers" : [ {
     "index" : 1,
-    "text" : "Staat"
+    "text" : "government"
   }, {
     "index" : 2,
-    "text" : "Konkurrenten"
+    "text" : "competitors"
   }, {
     "index" : 3,
-    "text" : "Kunden"
+    "text" : "clients"
   }, {
     "index" : 4,
-    "text" : "Kapitalgeber"
+    "text" : "invetors"
   }, {
     "index" : 5,
-    "text" : "Lieferanten"
+    "text" : "suppliers"
   }, {
     "index" : 6,
-    "text" : "Manager"
+    "text" : "managers"
   }, {
     "index" : 7,
-    "text" : "Mitarbeiter"
+    "text" : "employees"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,

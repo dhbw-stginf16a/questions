@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Parity pricing is choosing a price roughly equivalent to ...?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "the major competition's price"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "the major competition's price"
+  }, {
+    "index" : 2,
+    "text" : "the costs"
+  }, {
+    "index" : 3,
+    "text" : "the price your manager says"
+  }, {
+    "index" : 4,
+    "text" : "the highest price the customer is willing to pay"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

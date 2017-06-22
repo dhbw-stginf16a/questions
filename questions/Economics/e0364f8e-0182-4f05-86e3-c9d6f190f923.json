@@ -1,14 +1,14 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Woraus setzen sich die Materialkosten zusammen?",
+  "status" : "review",
+  "question" : "Into what costs are the material costs split up?\n",
   "answers" : [ {
     "index" : 1,
-    "text" : "Materialgemeinkosten"
+    "text" : "materials overhead"
   }, {
     "index" : 2,
-    "text" : "Fertigungsmaterial"
+    "text" : "prodcution material"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

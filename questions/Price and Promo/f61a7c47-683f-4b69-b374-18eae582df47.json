@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What does \"product research\" mean ?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "identification of a need and the characteristics of the good that will satisfy it"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

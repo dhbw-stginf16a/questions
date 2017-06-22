@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "In exploratory research interviews are unstructured in contrast to specific research, but which of these two is more expensive?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Specific research"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Exploratory research"
+  }, {
+    "index" : 2,
+    "text" : "Specific research"
+  }, {
+    "index" : 3,
+    "text" : "none of them"
+  } ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

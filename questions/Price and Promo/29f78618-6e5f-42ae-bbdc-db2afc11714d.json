@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name 2 components of a pricing program!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Pricing objectives"
+  }, {
+    "index" : 2,
+    "text" : "Pricing strategies"
+  }, {
+    "index" : 3,
+    "text" : "Pricing structure"
+  }, {
+    "index" : 4,
+    "text" : "Price levels"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

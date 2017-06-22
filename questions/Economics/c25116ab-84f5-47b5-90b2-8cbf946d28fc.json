@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Bie knappen Gütern spricht man auch von [...].",
+  "difficulty" : 2,
+  "status" : "review",
+  "question" : "Rare goods are also called [...]",
   "answers" : [ {
     "index" : 1,
-    "text" : "Wirtschaftsgütern"
+    "text" : "economic goods"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

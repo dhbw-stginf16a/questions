@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Information for market research compiled by you or someone you hired is called ..?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Primary information"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Gathering information and data to help solve marketing challenges that a business will most likely face is called ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "market research"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

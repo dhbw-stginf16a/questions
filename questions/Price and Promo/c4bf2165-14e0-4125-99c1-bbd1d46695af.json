@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Name 3 company related factors for the decision between a direct or an indirect distribution.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "size of the company"
+  }, {
+    "index" : 2,
+    "text" : "revenue"
+  }, {
+    "index" : 3,
+    "text" : "current distribution channels"
+  }, {
+    "index" : 4,
+    "text" : "assortment of goods"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Price and Promo"
+}

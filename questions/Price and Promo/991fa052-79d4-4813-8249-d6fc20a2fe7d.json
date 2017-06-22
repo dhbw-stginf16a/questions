@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "Explain the word \"distribution channel\"!",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A distribution channel describes a product's way from the producer to the customer"
+  }, {
+    "index" : 2,
+    "text" : null
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}

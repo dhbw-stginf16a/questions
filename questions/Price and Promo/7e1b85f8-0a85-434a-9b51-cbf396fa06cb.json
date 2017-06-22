@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "What is the difference between the pricing objectives \"market share\" and \"sales growth\" ?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Sales growth is just interested in the amount of sales and nothing else."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Price and Promo"
+}
