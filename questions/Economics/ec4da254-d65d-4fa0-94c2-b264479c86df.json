@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Which kind of accountig handels the liabilities towards suppliers?",
   "answers" : [ {
     "index" : 3,

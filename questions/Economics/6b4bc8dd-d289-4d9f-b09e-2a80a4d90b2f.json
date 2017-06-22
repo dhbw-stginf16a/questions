@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "If you distinguish goods from their place in the transformation process, they are categorized in [...]?",
   "answers" : [ {
     "index" : 1,
