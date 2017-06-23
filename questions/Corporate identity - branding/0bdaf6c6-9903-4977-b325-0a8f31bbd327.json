@@ -6,9 +6,6 @@
   "answers" : [ {
     "index" : 1,
     "text" : "Designation mark"
-  }, {
-    "index" : 2,
-    "text" : null
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
