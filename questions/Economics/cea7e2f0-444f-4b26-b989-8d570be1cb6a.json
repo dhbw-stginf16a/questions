@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What kind of good is printed but loose paper in a printing office?",
   "answers" : [ {
     "index" : 1,
@@ -9,16 +9,16 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "unfinished product"
+    "text" : "Unfinished product"
   }, {
     "index" : 2,
-    "text" : "finished product"
+    "text" : "Finished product"
   }, {
     "index" : 3,
-    "text" : "self labour"
+    "text" : "Self labour"
   }, {
     "index" : 4,
-    "text" : "commodity"
+    "text" : "Commodity"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

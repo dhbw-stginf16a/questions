@@ -1,17 +1,17 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Into which parts are production costs split up?",
   "answers" : [ {
     "index" : 1,
-    "text" : "production overhead"
+    "text" : "Production overhead"
   }, {
     "index" : 2,
-    "text" : "production wages"
+    "text" : "Production wages"
   }, {
     "index" : 3,
-    "text" : "depreciation"
+    "text" : "Depreciation"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Rare goods are also called [...]",
   "answers" : [ {
     "index" : 1,
-    "text" : "economic goods"
+    "text" : "Economic goods"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

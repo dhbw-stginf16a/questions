@@ -1,14 +1,14 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What is another name for an unfinished product?",
   "answers" : [ {
     "index" : 1,
-    "text" : "semi-finished product"
+    "text" : "Semi-finished product"
   }, {
     "index" : 2,
-    "text" : "interim result"
+    "text" : "Interim result"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

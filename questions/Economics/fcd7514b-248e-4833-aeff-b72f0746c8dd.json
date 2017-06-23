@@ -1,6 +1,6 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 2,
+  "difficulty" : 3,
   "status" : "approved",
   "question" : "Which entries stand on the active side of the balance sheet?",
   "answers" : [ {

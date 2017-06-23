@@ -1,23 +1,23 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "How can you categorize goods? Name two.",
   "answers" : [ {
     "index" : 1,
-    "text" : "property rights"
+    "text" : "Property rights"
   }, {
     "index" : 2,
-    "text" : "availability"
+    "text" : "Availability"
   }, {
     "index" : 3,
-    "text" : "satisfaction of needs"
+    "text" : "Satisfaction of needs"
   }, {
     "index" : 4,
-    "text" : "quality"
+    "text" : "Quality"
   }, {
     "index" : 5,
-    "text" : "physical properties"
+    "text" : "Physical properties"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

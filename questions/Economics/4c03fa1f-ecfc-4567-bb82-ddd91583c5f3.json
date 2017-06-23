@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Name three needs of a human being.",
   "answers" : [ {
     "index" : 1,
@@ -11,19 +11,19 @@
     "text" : "Security"
   }, {
     "index" : 3,
-    "text" : "sozial needs"
+    "text" : "Sozial needs"
   }, {
     "index" : 4,
-    "text" : "appreciation"
+    "text" : "Appreciation"
   }, {
     "index" : 5,
-    "text" : "individual fulfilment"
+    "text" : "Individual fulfilment"
   }, {
     "index" : 6,
     "text" : "WLAN"
   }, {
     "index" : 7,
-    "text" : "physiological needs"
+    "text" : "Physiological needs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

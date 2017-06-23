@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Are food, clothes and accommodation basic needs?",
   "answers" : [ {
     "index" : 2,

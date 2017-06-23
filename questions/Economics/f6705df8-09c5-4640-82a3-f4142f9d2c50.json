@@ -1,29 +1,29 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Name four stakeholders",
   "answers" : [ {
     "index" : 1,
-    "text" : "government"
+    "text" : "Government"
   }, {
     "index" : 2,
-    "text" : "competitors"
+    "text" : "Competitors"
   }, {
     "index" : 3,
-    "text" : "clients"
+    "text" : "Clients"
   }, {
     "index" : 4,
-    "text" : "invetors"
+    "text" : "Invetors"
   }, {
     "index" : 5,
-    "text" : "suppliers"
+    "text" : "Suppliers"
   }, {
     "index" : 6,
-    "text" : "managers"
+    "text" : "Managers"
   }, {
     "index" : 7,
-    "text" : "employees"
+    "text" : "Employees"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,
