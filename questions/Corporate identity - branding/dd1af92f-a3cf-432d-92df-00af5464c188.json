@@ -1,13 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Define \"USP\".",
   "answers" : [ {
     "index" : 1,
-    "text" : "Unique Selling Proposition - Real or perceived benefit of a good or service that differentiates it from the competing brands and gives it buyer a logical reason to prefer it over other brands."
+    "text" : "Real or perceived benefit of a good or service that differentiates it from the competing brands and gives it buyer a logical reason to prefer it over other brands."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 1,
+  "category" : "Corporate identity - branding"
 }

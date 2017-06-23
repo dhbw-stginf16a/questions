@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What are the three product levels?",
   "answers" : [ {
     "index" : 1,

@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "... consist of the policies regarding competitive upgrades, reseller pricing, discounts, list price, distributor and street price (the actual selling price).",
+  "status" : "approved",
+  "question" : "... consist of the policies regarding competitive upgrades, reseller pricing, discounts, list price, distributor and street price.",
   "answers" : [ {
     "index" : 1,
     "text" : "Price"

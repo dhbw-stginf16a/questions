@@ -1,14 +1,14 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "review",
-  "question" : "Into what costs are the material costs split up?\n",
+  "status" : "approved",
+  "question" : "Into which kinds are the material costs split up?\n",
   "answers" : [ {
     "index" : 1,
-    "text" : "materials overhead"
+    "text" : "Materials overhead"
   }, {
     "index" : 2,
-    "text" : "prodcution material"
+    "text" : "Prodcution material"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

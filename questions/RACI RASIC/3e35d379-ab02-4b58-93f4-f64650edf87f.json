@@ -1,0 +1,16 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "draft",
+  "question" : "RASIC Chart: Some parties can only be assigned once to one task. Which are these?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Responsilbe"
+  }, {
+    "index" : 2,
+    "text" : "Approving"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

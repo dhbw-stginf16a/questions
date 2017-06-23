@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 3,
-  "status" : "draft",
-  "question" : "Name three parts of the corporate design.",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Name 2 parts of the corporate design.",
   "answers" : [ {
     "index" : 1,
     "text" : "Logos"
@@ -14,6 +14,6 @@
     "text" : "Corporate colours"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 3,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 2,
+  "category" : "Corporate identity - branding"
 }

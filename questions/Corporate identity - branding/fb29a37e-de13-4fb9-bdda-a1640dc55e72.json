@@ -1,8 +1,8 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Your logo should not...",
+  "status" : "approved",
+  "question" : "Your logo should not... (list 2 criterias)!",
   "answers" : [ {
     "index" : 1,
     "text" : "be to detailed."

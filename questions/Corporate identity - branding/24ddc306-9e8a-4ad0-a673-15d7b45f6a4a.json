@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
-  "question" : "Your logo should....",
+  "status" : "approved",
+  "question" : "List 3 criteria your logo should fit!",
   "answers" : [ {
     "index" : 1,
     "text" : "Refelct your company in a unique and honest way."
@@ -23,6 +23,6 @@
     "text" : "Have a closed and clear shape."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 3,
   "category" : "Corporate identity - branding"
 }

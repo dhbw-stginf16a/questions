@@ -1,21 +1,21 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 3,
-  "status" : "review",
-  "question" : "How many requestors do you have in a so called Monopsony?",
+  "status" : "approved",
+  "question" : "How many requestors are there in a so called Monopsony?",
   "answers" : [ {
     "index" : 1,
     "text" : "one"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "one"
+    "text" : "One"
   }, {
     "index" : 2,
-    "text" : "a few"
+    "text" : "A few"
   }, {
     "index" : 3,
-    "text" : "many"
+    "text" : "Many"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

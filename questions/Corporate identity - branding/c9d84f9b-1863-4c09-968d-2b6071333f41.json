@@ -1,22 +1,28 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
-  "question" : "What are the properties on the USP?",
+  "status" : "approved",
+  "question" : "List five properties on the USP?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Verteidigungsfähigkeit "
+    "text" : "ability to defence"
   }, {
     "index" : 2,
-    "text" : "Zielgruppenorientierung"
+    "text" : "orientation to audience"
   }, {
     "index" : 3,
-    "text" : "Wirtschaftlichkeit"
+    "text" : "economic feasibility"
   }, {
     "index" : 4,
-    "text" : "Preis, Qualität und Spezial Features"
+    "text" : "price"
+  }, {
+    "index" : 5,
+    "text" : "quality"
+  }, {
+    "index" : 6,
+    "text" : "special features"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 4,
-  "category" : "Corporate identity"
+  "requiredAnswers" : 5,
+  "category" : "Corporate identity - branding"
 }

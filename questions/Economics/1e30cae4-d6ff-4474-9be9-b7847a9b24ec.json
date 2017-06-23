@@ -1,20 +1,20 @@
 {
   "type" : "list",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Name two kinds of markets.",
   "answers" : [ {
     "index" : 1,
-    "text" : "job market"
+    "text" : "Job market"
   }, {
     "index" : 2,
-    "text" : "key market"
+    "text" : "Key market"
   }, {
     "index" : 3,
-    "text" : "capital market"
+    "text" : "Capital market"
   }, {
     "index" : 4,
-    "text" : "procurement market"
+    "text" : "Procurement market"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

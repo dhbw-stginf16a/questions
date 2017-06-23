@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
-  "status" : "review",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "A situation of several requestors and several suppliers is also called a bilateral [...].",
   "answers" : [ {
     "index" : 1,

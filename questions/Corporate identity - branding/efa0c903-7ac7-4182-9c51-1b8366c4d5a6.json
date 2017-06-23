@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "What are the three parts of the corporate identity?",
   "answers" : [ {
     "index" : 1,
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "Corporate identity"
+  "category" : "Corporate identity - branding"
 }

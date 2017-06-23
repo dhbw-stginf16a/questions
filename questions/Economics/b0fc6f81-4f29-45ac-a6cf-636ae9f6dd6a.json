@@ -1,8 +1,8 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Eine Gesellschaft mit beschränkter Haftung ist eine [...].",
+  "status" : "review",
+  "question" : "A 'Gesellschaft mit beschränkter Haftung' is a [...].",
   "answers" : [ {
     "index" : 1,
     "text" : "Kapitalgesellschaft"
@@ -18,5 +18,5 @@
     "text" : "Mischform"
   } ],
   "requiredAnswers" : 1,
-  "category" : "BWL"
+  "category" : "Economics"
 }

@@ -1,22 +1,13 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "What does the augmented product consist?",
   "answers" : [ {
-    "index" : 1,
-    "text" : "Installation"
-  }, {
-    "index" : 2,
-    "text" : "Aftersales service"
-  }, {
     "index" : 3,
-    "text" : "Warranty"
-  }, {
-    "index" : 4,
-    "text" : "Delivery and credit"
+    "text" : "Warranty and services"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 4,
+  "requiredAnswers" : 1,
   "category" : "Marketing- Product"
 }

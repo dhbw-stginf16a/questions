@@ -1,11 +1,11 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Trying to get the most out of a given input describes the [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "maximum principle"
+    "text" : "Maximum principle"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

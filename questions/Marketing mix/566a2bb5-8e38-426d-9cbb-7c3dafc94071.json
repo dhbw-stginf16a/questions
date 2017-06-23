@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 3,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "In addition to the four P's and the contingencies for the uncontrollables, the Marketing Plan lays out both the ... and ... along with a detailed budget.",
   "answers" : [ {
     "index" : 1,

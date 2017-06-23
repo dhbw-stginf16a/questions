@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What is economic action?",
   "answers" : [ {
     "index" : 1,

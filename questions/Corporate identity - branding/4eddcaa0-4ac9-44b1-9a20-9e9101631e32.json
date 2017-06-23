@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Name three parts of the corporate communication.",
   "answers" : [ {
     "index" : 1,
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "Corporate identity"
+  "category" : "Corporate identity - branding"
 }
