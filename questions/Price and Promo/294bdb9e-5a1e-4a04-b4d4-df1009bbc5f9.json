@@ -3,10 +3,7 @@
   "difficulty" : 2,
   "status" : "draft",
   "question" : "What does price elasticity say?",
-  "answers" : [ {
-    "index" : 1,
-    "text" : null
-  } ],
+  "answers" : [ ],
   "possibilities" : [ ],
   "requiredAnswers" : 0,
   "category" : "Price and Promo"
