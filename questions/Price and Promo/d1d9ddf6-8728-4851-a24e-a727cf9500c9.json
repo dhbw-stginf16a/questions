@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "draft",
   "question" : "Sometimes the minimum pricing level will be undercutted, how is this pricing policy called?",
   "answers" : [ {
     "index" : 1,
