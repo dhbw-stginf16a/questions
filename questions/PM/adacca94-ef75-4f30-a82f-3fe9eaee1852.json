@@ -1,8 +1,8 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : " Name 4 different leadership styles.",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Name 4 different leadership styles.",
   "answers" : [ {
     "index" : 1,
     "text" : "patriarchal"

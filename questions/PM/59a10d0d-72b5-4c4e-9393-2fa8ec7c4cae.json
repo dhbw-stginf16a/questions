@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "When there is spare or extra time left it is also called...",
   "answers" : [ {
     "index" : 1,

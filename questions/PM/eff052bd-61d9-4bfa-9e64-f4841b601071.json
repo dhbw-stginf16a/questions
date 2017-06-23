@@ -1,8 +1,8 @@
 {
   "type" : "wildcard",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "True or False: A proje ct is a temporary effort made up of a set of related activities.",
+  "status" : "approved",
+  "question" : "True or False: A project is a temporary effort made up of a set of related activities.",
   "answers" : [ {
     "index" : 1,
     "text" : "True"

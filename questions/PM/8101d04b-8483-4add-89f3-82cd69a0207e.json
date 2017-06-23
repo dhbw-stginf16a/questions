@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "A phase is ... of a project.",
   "answers" : [ {
     "index" : 2,

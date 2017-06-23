@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "The perkinson's law says that the demand upon a resource tends to ... to match the supply of the resource.",
   "answers" : [ {
     "index" : 1,
@@ -12,7 +12,7 @@
     "text" : "to expand"
   }, {
     "index" : 2,
-    "text" : "to slow down"
+    "text" : "slow down"
   } ],
   "requiredAnswers" : 1,
   "category" : "PM"

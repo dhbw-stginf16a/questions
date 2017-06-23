@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Name the 4 stages of the Project Management Cycle.",
   "answers" : [ {
     "index" : 1,

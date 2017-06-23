@@ -1,8 +1,8 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : " How is the person chiefly responsible for leading the project to a successful outcome called?",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "How is the person chiefly responsible for leading the project to a successful outcome called?",
   "answers" : [ {
     "index" : 1,
     "text" : "sponsor"

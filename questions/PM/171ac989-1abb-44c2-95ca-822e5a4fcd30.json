@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "review",
   "question" : "Name 3 different kinds of power bases.",
   "answers" : [ {
     "index" : 1,
