@@ -6,14 +6,8 @@
   "answers" : [ {
     "index" : 1,
     "text" : "Management reports"
-  }, {
-    "index" : 2,
-    "text" : null
-  }, {
-    "index" : 3,
-    "text" : null
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "Projekt Manager"
+  "category" : "RACI RASIC"
 }

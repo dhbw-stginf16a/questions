@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "Which skills should a Project Manager most likley has?",
+  "question" : "Which competences should a Project Manager most likley has?",
   "answers" : [ {
     "index" : 1,
     "text" : "Communication"
@@ -12,14 +12,14 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Communication"
+    "text" : "Provide accurate and regular management reports"
   }, {
     "index" : 2,
-    "text" : "Specialist knowledge"
+    "text" : "Work closely with FAQ-platforms"
   }, {
     "index" : 3,
     "text" : "Resolves confilicts"
   } ],
   "requiredAnswers" : 2,
-  "category" : "Projekt Manager"
+  "category" : "RACI RASIC"
 }

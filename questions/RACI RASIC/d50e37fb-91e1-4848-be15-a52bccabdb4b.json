@@ -1,22 +1,22 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 2,
+  "difficulty" : 1,
   "status" : "draft",
   "question" : "What would a Project Manager likley not do?",
   "answers" : [ {
-    "index" : 1,
-    "text" : "Communicate in one-way direction"
+    "index" : 2,
+    "text" : "End a project because of frustration"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Communicate in one-way direction"
+    "text" : "Plan and manage day-to-day delivery"
   }, {
     "index" : 2,
-    "text" : "Think critically and strategically"
+    "text" : "End a project because of frustration"
   }, {
     "index" : 3,
-    "text" : "Determise priorities"
+    "text" : "Make decisions"
   } ],
   "requiredAnswers" : 1,
-  "category" : "Projekt Manager"
+  "category" : "RACI RASIC"
 }

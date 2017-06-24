@@ -1,0 +1,13 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 1,
+  "status" : "draft",
+  "question" : "The ... is the basic need or benefit that the product is trying to meet or deliver.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Core Product"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 0,
+  "category" : "Marketing- Product"
+}
