@@ -1,18 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Which of the following is not a responsibility of a Project Manager?",
   "answers" : [ {
-    "index" : 1,
-    "text" : "Comunicating"
-  }, {
-    "index" : 2,
-    "text" : "Planning"
-  }, {
-    "index" : 3,
-    "text" : "Negotiating"
-  }, {
+    "index" : 7,
+    "text" : "Financing"
+  } ],
+  "possibilities" : [ {
     "index" : 4,
     "text" : "Coaching"
   }, {
@@ -23,9 +18,8 @@
     "text" : "Leadership"
   }, {
     "index" : 7,
-    "text" : null
+    "text" : "Financing"
   } ],
-  "possibilities" : [ ],
   "requiredAnswers" : 1,
   "category" : "RACI RASIC Project Manager"
 }
