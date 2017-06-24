@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "What does the supporting party in the RASIC?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Supports the task with resorces/time/other material benefits"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

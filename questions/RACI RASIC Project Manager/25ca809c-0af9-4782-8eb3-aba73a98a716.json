@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "DACI is an acronym. What does each letter signify? ",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Driver"
+  }, {
+    "index" : 2,
+    "text" : "Approver"
+  }, {
+    "index" : 3,
+    "text" : "Contributors"
+  }, {
+    "index" : 4,
+    "text" : "Informed"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "RACI RASIC"
+}

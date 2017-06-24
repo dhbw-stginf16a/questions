@@ -1,0 +1,13 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "In context with RACI: who is kept up-to-date on the project progress?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Informed (Informee)"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

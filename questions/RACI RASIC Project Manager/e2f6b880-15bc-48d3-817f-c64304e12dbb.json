@@ -1,0 +1,16 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "The RACI-VS is an expanded version of the RACI. What does \"VS\" signify?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Verifier"
+  }, {
+    "index" : 2,
+    "text" : "Signatory"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

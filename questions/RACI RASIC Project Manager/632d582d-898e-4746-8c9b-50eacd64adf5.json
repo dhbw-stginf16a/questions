@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "Which tool is mainly used for decision making?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "RAPID"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

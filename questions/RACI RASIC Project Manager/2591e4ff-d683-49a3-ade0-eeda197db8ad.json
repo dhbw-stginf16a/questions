@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Where do you use RASIC?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Dort, wo Verantwortungen klar verteilt werden sollen"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "If the company is going bankrupt"
+  }, {
+    "index" : 2,
+    "text" : "Where clarity of responsibility is required"
+  }, {
+    "index" : 3,
+    "text" : "If the use of RACI fails"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

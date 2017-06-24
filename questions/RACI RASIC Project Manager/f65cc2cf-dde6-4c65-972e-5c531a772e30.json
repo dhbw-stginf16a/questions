@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "A variation of the RASIC-approach is called PACSI. What does each letter signify?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Perform"
+  }, {
+    "index" : 2,
+    "text" : "Accountable"
+  }, {
+    "index" : 3,
+    "text" : "Control"
+  }, {
+    "index" : 4,
+    "text" : "Suggest"
+  }, {
+    "index" : 5,
+    "text" : "Informed"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "RACI RASIC Project Manager"
+}

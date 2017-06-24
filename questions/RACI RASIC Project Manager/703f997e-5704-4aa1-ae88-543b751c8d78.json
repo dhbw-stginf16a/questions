@@ -1,0 +1,16 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "A Project Manager needs balance between ... and ...",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "technical skills"
+  }, {
+    "index" : 2,
+    "text" : "behavior skills"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

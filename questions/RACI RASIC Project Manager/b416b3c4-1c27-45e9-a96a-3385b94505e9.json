@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Which of the following is not a proper action of a Project Manager?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Act profit-oriented"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Marke sure projects get done"
+  }, {
+    "index" : 2,
+    "text" : "Increase efficiency"
+  }, {
+    "index" : 3,
+    "text" : "Act profit-oriented"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "How do you call the party that reviews and assures the work product's quality?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Accountable (Approver)"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}
