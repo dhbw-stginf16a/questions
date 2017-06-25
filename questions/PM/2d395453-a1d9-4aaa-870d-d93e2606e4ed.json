@@ -1,6 +1,6 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
+  "difficulty" : 2,
   "status" : "approved",
   "question" : "The PERT chart was designed to analyze and represent the... involved in comleting a given project.",
   "answers" : [ {

@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "review",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "Name the 3 different kinds of time estimates which should always be made",
   "answers" : [ {
     "index" : 1,

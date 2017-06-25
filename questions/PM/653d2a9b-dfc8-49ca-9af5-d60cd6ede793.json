@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What is an escalation?",
   "answers" : [ {
     "index" : 1,

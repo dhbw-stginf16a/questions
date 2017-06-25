@@ -1,13 +1,25 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
+  "difficulty" : 3,
   "status" : "approved",
-  "question" : "What does the A in SMART stand for?",
+  "question" : "What does SMART stand for?",
   "answers" : [ {
     "index" : 1,
+    "text" : "specific"
+  }, {
+    "index" : 2,
+    "text" : "measurable"
+  }, {
+    "index" : 3,
     "text" : "attainable"
+  }, {
+    "index" : 4,
+    "text" : "relevant"
+  }, {
+    "index" : 5,
+    "text" : "time-bound"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 1,
+  "requiredAnswers" : 5,
   "category" : "PM"
 }

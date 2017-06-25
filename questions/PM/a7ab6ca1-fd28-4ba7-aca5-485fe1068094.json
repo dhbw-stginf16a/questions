@@ -1,6 +1,6 @@
 {
   "type" : "wildcard",
-  "difficulty" : 2,
+  "difficulty" : 3,
   "status" : "approved",
   "question" : "What is the usage of the GANTT chart?",
   "answers" : [ {

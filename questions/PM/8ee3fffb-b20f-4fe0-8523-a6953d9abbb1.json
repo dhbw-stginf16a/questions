@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "A vehicle for implementing an organization's strategy is also called a ...",
   "answers" : [ {
     "index" : 1,

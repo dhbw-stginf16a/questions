@@ -1,13 +1,22 @@
 {
   "type" : "wildcard",
-  "difficulty" : 2,
+  "difficulty" : 3,
   "status" : "approved",
-  "question" : "What does the second C in CCPM signify?",
+  "question" : "What does CCPM signify?",
   "answers" : [ {
     "index" : 1,
+    "text" : "critical"
+  }, {
+    "index" : 2,
     "text" : "chain"
+  }, {
+    "index" : 3,
+    "text" : "project"
+  }, {
+    "index" : 4,
+    "text" : "management"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 1,
+  "requiredAnswers" : 4,
   "category" : "PM"
 }

@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What are the 3 different leadership approaches?",
   "answers" : [ {
     "index" : 1,

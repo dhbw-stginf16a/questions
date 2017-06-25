@@ -1,6 +1,6 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
+  "difficulty" : 2,
   "status" : "approved",
   "question" : "The people, material, equipment or facilities required to complete a task are called...",
   "answers" : [ {
