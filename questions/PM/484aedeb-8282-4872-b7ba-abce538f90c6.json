@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What are stakeholder?",
   "answers" : [ {
     "index" : 1,

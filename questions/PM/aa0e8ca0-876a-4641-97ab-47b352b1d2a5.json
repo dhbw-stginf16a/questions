@@ -2,7 +2,7 @@
   "type" : "wildcard",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Is the characteristical leadership approach dependent on a situation?",
+  "question" : "Does the characteristical leadership approach dependent on a situation?",
   "answers" : [ {
     "index" : 1,
     "text" : "no"
