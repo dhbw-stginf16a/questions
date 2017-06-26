@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "review",
   "question" : "List two items of the DACI.",
   "answers" : [ {
     "index" : 1,

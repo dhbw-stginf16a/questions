@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "If a circus is coming to town and you paint a sign saying \"Circus Coming to the Fairground Saturday\". That is ...",
   "answers" : [ {
     "index" : 4,

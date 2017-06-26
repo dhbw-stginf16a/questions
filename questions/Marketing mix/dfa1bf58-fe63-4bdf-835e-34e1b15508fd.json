@@ -1,9 +1,12 @@
 {
   "type" : "multipleChoice",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "If the circus is coming to town, you put a sign on the back of an elephant and walk him into town and the elephant walks through the mayor's flowerbed. That is...",
-  "answers" : [ ],
+  "answers" : [ {
+    "index" : 2,
+    "text" : "Publicity"
+  } ],
   "possibilities" : [ {
     "index" : 1,
     "text" : "Relations"
