@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "Within a project an ... goal is reached.",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Within a project an [...] goal is reached.",
   "answers" : [ {
     "index" : 1,
     "text" : "unique"

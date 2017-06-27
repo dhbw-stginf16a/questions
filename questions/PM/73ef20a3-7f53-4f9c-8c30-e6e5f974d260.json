@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "What does the R in SMART stand for?",
+  "difficulty" : 3,
+  "status" : "review",
+  "question" : "What does the S,R and T in SMART stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "relevant"
+    "text" : "Specific, relevant, time-bound"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "The outcome of a process which is both definable and measurable ist called a...",
+  "status" : "approved",
+  "question" : "The outcome of a process which is both definable and measurable ist called a [...].",
   "answers" : [ {
     "index" : 1,
     "text" : "milestone"

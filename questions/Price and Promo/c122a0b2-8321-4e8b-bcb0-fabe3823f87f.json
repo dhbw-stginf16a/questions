@@ -5,9 +5,9 @@
   "question" : "What does MSRP stands for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "manufacturer's suggested retail price"
+    "text" : "Manufacturer's suggested retail price"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

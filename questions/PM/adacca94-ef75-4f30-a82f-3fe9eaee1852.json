@@ -1,29 +1,29 @@
 {
   "type" : "list",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : " Name 4 different leadership styles.",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Name 4 different leadership styles.",
   "answers" : [ {
     "index" : 1,
-    "text" : "patriarchal"
+    "text" : "Patriarchal"
   }, {
     "index" : 2,
-    "text" : "charismatic"
+    "text" : "Charismatic"
   }, {
     "index" : 3,
-    "text" : "autocratic"
+    "text" : "Autocratic"
   }, {
     "index" : 4,
-    "text" : "bureaucratic"
+    "text" : "Bureaucratic"
   }, {
     "index" : 5,
-    "text" : "authoritarian"
+    "text" : "Authoritarian"
   }, {
     "index" : 6,
-    "text" : "laissez-faire"
+    "text" : "Laissez-faire"
   }, {
     "index" : 7,
-    "text" : "cooperative/democratic"
+    "text" : "Cooperative/democratic"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,

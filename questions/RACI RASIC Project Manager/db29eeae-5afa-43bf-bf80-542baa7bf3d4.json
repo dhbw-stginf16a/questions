@@ -1,0 +1,34 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "A variation of the RASIC-approach is called PACSI. Which of the following meanings of the letters are correct?",
+  "answers" : [ {
+    "index" : 6,
+    "text" : "all of the above"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Perform"
+  }, {
+    "index" : 2,
+    "text" : "Accountable"
+  }, {
+    "index" : 3,
+    "text" : "Control"
+  }, {
+    "index" : 4,
+    "text" : "Suggest"
+  }, {
+    "index" : 5,
+    "text" : "Informed"
+  }, {
+    "index" : 6,
+    "text" : "all of the above"
+  }, {
+    "index" : 7,
+    "text" : "none of the above"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

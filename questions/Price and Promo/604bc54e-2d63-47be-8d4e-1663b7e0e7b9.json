@@ -2,12 +2,12 @@
   "type" : "wildcard",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Quantitative price differentiation means ...?",
+  "question" : "What does quantitative price differentiation mean?",
   "answers" : [ {
     "index" : 1,
     "text" : "The price is connected to the amount of products per customer."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

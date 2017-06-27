@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "A project within another project is called a ...project.",
+  "status" : "approved",
+  "question" : "A project within another project is called a [...]project.",
   "answers" : [ {
     "index" : 1,
     "text" : "sub"

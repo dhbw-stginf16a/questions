@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "review",
+  "question" : "A variation of the RASIC-approach is called RAPID. List the meanings of all letters",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Perform"
+  }, {
+    "index" : 2,
+    "text" : "Input"
+  }, {
+    "index" : 3,
+    "text" : "Decide"
+  }, {
+    "index" : 4,
+    "text" : "Recommend"
+  }, {
+    "index" : 5,
+    "text" : "Agree"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "RACI RASIC Project Manager"
+}

@@ -1,0 +1,19 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "A variation of the RASIC-approach is called CAIRO/RACIO. What does the O signify?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Out of the loop"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Out of the loop"
+  }, {
+    "index" : 2,
+    "text" : "Outsourced"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 2,
   "status" : "review",
-  "question" : "Reservation price - market price = ?",
+  "question" : "Reservation price - market price = [...]",
   "answers" : [ {
     "index" : 1,
     "text" : "consumer surplus"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

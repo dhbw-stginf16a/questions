@@ -2,10 +2,10 @@
   "type" : "wildcard",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Costs, which can not be directly assigned to a single cost object (product), e.g. packing kost, shipping cost storageor appraisal costs, are part of the [..]",
+  "question" : "Costs, which can not be directly assigned to a single cost object (product), e.g. packing kost, shipping cost storageor appraisal costs, are part of the [...]",
   "answers" : [ {
     "index" : 1,
-    "text" : "Indirect material costs"
+    "text" : "indirect material costs"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

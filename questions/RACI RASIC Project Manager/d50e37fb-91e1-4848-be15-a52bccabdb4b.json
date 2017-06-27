@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Which of the following is not a proper action of a Project Manager?",
+  "answers" : [ {
+    "index" : 2,
+    "text" : "End a project because of frustration"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Plan and manage day-to-day delivery"
+  }, {
+    "index" : 2,
+    "text" : "End a project because of frustration"
+  }, {
+    "index" : 3,
+    "text" : "Make decisions"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

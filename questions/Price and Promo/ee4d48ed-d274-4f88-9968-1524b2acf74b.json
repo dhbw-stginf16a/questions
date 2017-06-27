@@ -2,12 +2,12 @@
   "type" : "fillIn",
   "difficulty" : 2,
   "status" : "review",
-  "question" : "A ... is a situation, in that the producer recieves the reservation price by every costumor.",
+  "question" : "A [...] is a situation, in that the producer recieves the reservation price by every costumor.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Perfect price differentiation"
+    "text" : "perfect price differentiation"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

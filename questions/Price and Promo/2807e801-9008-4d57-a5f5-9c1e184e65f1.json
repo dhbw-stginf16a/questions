@@ -20,6 +20,6 @@
     "index" : 4,
     "text" : "The lowest price other competitors offer."
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

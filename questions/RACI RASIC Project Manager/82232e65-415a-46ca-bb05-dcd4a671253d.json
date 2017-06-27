@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Does a Project Manager rather need technical oder behavior skills?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Both in an equal ratio"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

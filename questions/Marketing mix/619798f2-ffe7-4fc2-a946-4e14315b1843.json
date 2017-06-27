@@ -5,22 +5,22 @@
   "question" : "The Marketing Plan covers the controllables while also suggesting contingencies for the uncontrollables. Name at least 4 uncontrollables variables.",
   "answers" : [ {
     "index" : 1,
-    "text" : "social cultural"
+    "text" : "Social cultural"
   }, {
     "index" : 2,
-    "text" : "ethical"
+    "text" : "Ethical"
   }, {
     "index" : 3,
-    "text" : "technological"
+    "text" : "Technological"
   }, {
     "index" : 4,
-    "text" : "competitive"
+    "text" : "Competitive"
   }, {
     "index" : 5,
-    "text" : "political-legal"
+    "text" : "Political-legal"
   }, {
     "index" : 6,
-    "text" : "economic"
+    "text" : "Economic"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,

@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What is the student syndrome?",
   "answers" : [ {
     "index" : 1,
-    "text" : "the phenomenon to complete a task just at the last possible moment before a deadline"
+    "text" : "The phenomenon to complete a task just at the last possible moment before a deadline"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

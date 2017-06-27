@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "True or False: SMART is used as a criteria to formulate objectives the proper way.",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "What is SMART used for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "True"
+    "text" : "As a criteria to formulate objectives the proper way"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

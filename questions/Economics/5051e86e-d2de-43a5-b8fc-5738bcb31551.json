@@ -5,7 +5,7 @@
   "question" : "Trying to get the most out of a given input describes the [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Maximum principle"
+    "text" : "maximum principle"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

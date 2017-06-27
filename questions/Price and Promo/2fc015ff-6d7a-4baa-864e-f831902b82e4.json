@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Market research in case of customers is called ... ?",
+  "question" : "Market research in case of customers is called [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Consumer research"
+    "text" : "consumer research"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

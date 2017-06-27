@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Which of the following is not a proper action of a Project Manager?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Communicate in one-way direction"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Communicate in one-way direction"
+  }, {
+    "index" : 2,
+    "text" : "Think critically and strategically"
+  }, {
+    "index" : 3,
+    "text" : "Determise priorities"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC"
+}

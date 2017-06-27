@@ -1,8 +1,8 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "A problem or challenge in Project Management is also called an...",
+  "status" : "approved",
+  "question" : "A problem or challenge in Project Management is also called an [...]",
   "answers" : [ {
     "index" : 1,
     "text" : "issue"

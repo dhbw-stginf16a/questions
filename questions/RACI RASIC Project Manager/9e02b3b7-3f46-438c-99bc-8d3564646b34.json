@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "What is most important for a Project Manager?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "beides in gleichem Maß"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Technical skills"
+  }, {
+    "index" : 2,
+    "text" : "Behavior skills"
+  }, {
+    "index" : 3,
+    "text" : "Both in an equal ratio"
+  }, {
+    "index" : 4,
+    "text" : "Externally occur"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

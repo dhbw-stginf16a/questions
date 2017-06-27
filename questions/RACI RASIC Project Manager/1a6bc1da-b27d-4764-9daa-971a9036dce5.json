@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Which of the following is not a responsibility of a Project Manager?",
+  "answers" : [ {
+    "index" : 7,
+    "text" : "Financing"
+  } ],
+  "possibilities" : [ {
+    "index" : 4,
+    "text" : "Coaching"
+  }, {
+    "index" : 5,
+    "text" : "Decision-making"
+  }, {
+    "index" : 6,
+    "text" : "Leadership"
+  }, {
+    "index" : 7,
+    "text" : "Financing"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

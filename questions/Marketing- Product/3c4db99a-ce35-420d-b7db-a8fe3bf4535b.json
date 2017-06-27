@@ -1,5 +1,5 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 1,
   "status" : "draft",
   "question" : "Name at least three examples for people as products.",
@@ -17,6 +17,6 @@
     "text" : "Kings/Queens"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 3,
   "category" : "Marketing- Product"
 }

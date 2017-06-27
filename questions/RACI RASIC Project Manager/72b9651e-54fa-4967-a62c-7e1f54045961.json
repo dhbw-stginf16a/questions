@@ -1,0 +1,16 @@
+{
+  "type" : "fillIn",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "For each step in the process to which the RASIC approach has been applied, there must be both a [...] and [...] party.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "responsible"
+  }, {
+    "index" : 2,
+    "text" : "approving"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC Project Manager"
+}

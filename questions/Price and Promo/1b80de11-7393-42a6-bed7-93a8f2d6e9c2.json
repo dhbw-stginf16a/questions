@@ -2,12 +2,12 @@
   "type" : "fillIn",
   "difficulty" : 3,
   "status" : "review",
-  "question" : "The pricing strategie ... is a good way to discourage market entries by new competitors or get rid off old ones.",
+  "question" : "The pricing strategie '[...]' is a good way to discourage market entries by new competitors or get rid off old ones.",
   "answers" : [ {
     "index" : 1,
     "text" : "Stay out pricing"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

@@ -1,0 +1,25 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "RASIC is an acronym. What does each letter signify? List the meanings of any three letters.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Responsible"
+  }, {
+    "index" : 2,
+    "text" : "Approving"
+  }, {
+    "index" : 3,
+    "text" : "Supporting"
+  }, {
+    "index" : 4,
+    "text" : "Informed"
+  }, {
+    "index" : 5,
+    "text" : "Consulted"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "RACI RASIC"
+}

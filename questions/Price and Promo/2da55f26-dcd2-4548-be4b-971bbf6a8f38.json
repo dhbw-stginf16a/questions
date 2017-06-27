@@ -5,13 +5,13 @@
   "question" : "Name 2 advantages of an indirect distribution!",
   "answers" : [ {
     "index" : 1,
-    "text" : "less costs because of staff"
+    "text" : "Less costs because of staff"
   }, {
     "index" : 2,
-    "text" : "organizatorial work can be done by resellers"
+    "text" : "Organizatorial work can be done by resellers"
   }, {
     "index" : 3,
-    "text" : "mass distribution is possible"
+    "text" : "Mass distribution is possible"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

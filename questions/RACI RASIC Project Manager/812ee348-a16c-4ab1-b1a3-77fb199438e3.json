@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "Where do you use the RASIC-Chart?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Where clarity of responsibility is required"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

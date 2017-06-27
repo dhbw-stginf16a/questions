@@ -8,6 +8,6 @@
     "text" : "Set the price for a product below the costs, but higher the price for another product which serves as a direct complement. (e.g. film and camera)"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

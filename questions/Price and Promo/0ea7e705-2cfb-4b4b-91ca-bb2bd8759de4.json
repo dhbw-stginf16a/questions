@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Direct observation, mail surveys, interviews are examples for ...?",
+  "question" : "Direct observation, mail surveys, interviews are examples for [...].",
   "answers" : [ {
     "index" : 1,
     "text" : "Consumer research"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What is an escalation?",
   "answers" : [ {
     "index" : 1,
-    "text" : "to raise an issure higher and higher in management until it is solved"
+    "text" : "To raise an issure higher and higher in management until it is solved"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

@@ -1,13 +1,19 @@
 {
-  "type" : "wildcard",
+  "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "draft",
-  "question" : "True or False: A proje ct is a temporary effort made up of a set of related activities.",
+  "status" : "review",
+  "question" : "True or False: A project is a temporary effort made up of a set of related activities.",
   "answers" : [ {
-    "index" : 1,
+    "index" : 2,
     "text" : "True"
   } ],
-  "possibilities" : [ ],
+  "possibilities" : [ {
+    "index" : 2,
+    "text" : "True"
+  }, {
+    "index" : 3,
+    "text" : "False"
+  } ],
   "requiredAnswers" : 1,
   "category" : "PM"
 }

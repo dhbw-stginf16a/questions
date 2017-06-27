@@ -1,0 +1,25 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Which skills should a Project Manager most likley have?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Communication"
+  }, {
+    "index" : 3,
+    "text" : "Resolves confilicts"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Communication"
+  }, {
+    "index" : 2,
+    "text" : "Specialist knowledge"
+  }, {
+    "index" : 3,
+    "text" : "Resolves confilicts"
+  } ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}

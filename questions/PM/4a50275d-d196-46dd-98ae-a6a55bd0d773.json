@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "What is the last name of the developer of the CCPM?",
   "answers" : [ {
     "index" : 1,

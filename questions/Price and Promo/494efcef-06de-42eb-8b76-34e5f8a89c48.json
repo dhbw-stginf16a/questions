@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 2,
   "status" : "review",
-  "question" : "The process of gathering, analyzing and interpreting information about a market, product and customers is called ..?",
+  "question" : "The process of gathering, analyzing and interpreting information about a market, product and customers is called [...].",
   "answers" : [ {
     "index" : 1,
     "text" : "market research"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

@@ -1,0 +1,22 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 1,
+  "status" : "review",
+  "question" : "Which way of communication do you have as an Informee?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "one-way communication"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "One-way communication"
+  }, {
+    "index" : 2,
+    "text" : "Two-way communication"
+  }, {
+    "index" : 3,
+    "text" : "Er agiert im Hintergrund"
+  } ],
+  "requiredAnswers" : 1,
+  "category" : "RACI RASIC Project Manager"
+}

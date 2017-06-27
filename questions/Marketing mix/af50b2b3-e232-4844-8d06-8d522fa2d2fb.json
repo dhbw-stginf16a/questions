@@ -1,7 +1,7 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 1,
+  "status" : "approved",
   "question" : "What are the extern parts of the \"SWOT\" analysis?",
   "answers" : [ {
     "index" : 1,

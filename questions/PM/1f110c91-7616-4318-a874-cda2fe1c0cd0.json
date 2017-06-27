@@ -1,20 +1,20 @@
 {
   "type" : "list",
-  "difficulty" : 2,
-  "status" : "draft",
+  "difficulty" : 3,
+  "status" : "approved",
   "question" : "Name the 4 stages of the Project Management Cycle.",
   "answers" : [ {
     "index" : 1,
-    "text" : "design"
+    "text" : "Design"
   }, {
     "index" : 2,
-    "text" : "plan"
+    "text" : "Plan"
   }, {
     "index" : 3,
-    "text" : "execute"
+    "text" : "Execute"
   }, {
     "index" : 4,
-    "text" : "finalise"
+    "text" : "Finalise"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,

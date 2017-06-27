@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
+  "difficulty" : 2,
+  "status" : "approved",
   "question" : "What does the P in CCPM signify?",
   "answers" : [ {
     "index" : 1,
-    "text" : "project"
+    "text" : "Project"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

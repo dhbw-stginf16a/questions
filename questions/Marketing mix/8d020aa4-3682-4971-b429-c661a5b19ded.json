@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Name at least two examples for \"Opportunities\" (SWOT analysis).",
   "answers" : [ {
     "index" : 1,

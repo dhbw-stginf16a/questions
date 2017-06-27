@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Open-ended research to define specific problem in market research is called ...?",
+  "question" : "Open-ended research to define specific problem in market research is called [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Exploratory research"
+    "text" : "exploratory research"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

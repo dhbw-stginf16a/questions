@@ -1,11 +1,11 @@
 {
   "type" : "wildcard",
-  "difficulty" : 1,
-  "status" : "draft",
-  "question" : "What does the V in VUCA stand for?",
+  "difficulty" : 3,
+  "status" : "review",
+  "question" : "What does VUCA stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "volatility"
+    "text" : "Volatility, uncertainty, complexity, ambiguity"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

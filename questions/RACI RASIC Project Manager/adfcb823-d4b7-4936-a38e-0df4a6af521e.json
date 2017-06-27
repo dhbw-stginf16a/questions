@@ -1,0 +1,31 @@
+{
+  "type" : "multipleChoice",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "RASIC is an acronym. What does each letter signify? Name the 2 wrong meanings.",
+  "answers" : [ {
+    "index" : 4,
+    "text" : "Insisting"
+  }, {
+    "index" : 5,
+    "text" : "Concentrated"
+  } ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Responsible"
+  }, {
+    "index" : 2,
+    "text" : "Approving"
+  }, {
+    "index" : 3,
+    "text" : "Supporting"
+  }, {
+    "index" : 4,
+    "text" : "Insisting"
+  }, {
+    "index" : 5,
+    "text" : "Concentrated"
+  } ],
+  "requiredAnswers" : 2,
+  "category" : "RACI RASIC"
+}
