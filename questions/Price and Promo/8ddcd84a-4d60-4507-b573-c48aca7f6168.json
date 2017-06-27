@@ -2,12 +2,12 @@
   "type" : "fillIn",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Amount of customers, dispersal of customer and demand are ... for the decision between a direct or an indirect distribution.",
+  "question" : "Amount of customers, dispersal of customer and demand are [...] for the decision between a direct or an indirect distribution.",
   "answers" : [ {
     "index" : 1,
     "text" : "customer related factors"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

@@ -2,12 +2,12 @@
   "type" : "fillIn",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "... is precise in scope and is used to solve a problem that exploratory research has identified.",
+  "question" : "[...] is precise in scope and is used to solve a problem that exploratory research has identified.",
   "answers" : [ {
     "index" : 1,
     "text" : "Specific research"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

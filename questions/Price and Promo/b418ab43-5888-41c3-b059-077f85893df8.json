@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Partitioning means seperating customers in groups of different ...",
+  "question" : "Partitioning means seperating customers in groups of different [...]",
   "answers" : [ {
     "index" : 1,
     "text" : "willingness to pay"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

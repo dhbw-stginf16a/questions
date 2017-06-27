@@ -2,7 +2,7 @@
   "type" : "fillIn",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "... includes Advertising, PR, Event Marketing, Online Marketing, Direct Marketing, Personal Selling, Channel Marketing and Alliances.",
+  "question" : "[...] includes Advertising, PR, Event Marketing, Online Marketing, Direct Marketing, Personal Selling, Channel Marketing and Alliances.",
   "answers" : [ {
     "index" : 1,
     "text" : "Promotion"

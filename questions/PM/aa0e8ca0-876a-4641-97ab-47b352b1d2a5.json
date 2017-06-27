@@ -1,13 +1,19 @@
 {
-  "type" : "wildcard",
+  "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "approved",
+  "status" : "review",
   "question" : "Does the characteristical leadership approach dependent on a situation?",
   "answers" : [ {
-    "index" : 1,
-    "text" : "no"
+    "index" : 2,
+    "text" : "No"
   } ],
-  "possibilities" : [ ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "Yes"
+  }, {
+    "index" : 2,
+    "text" : "No"
+  } ],
   "requiredAnswers" : 1,
   "category" : "PM"
 }

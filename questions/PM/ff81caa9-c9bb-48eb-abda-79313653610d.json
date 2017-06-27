@@ -5,7 +5,7 @@
   "question" : "What does the first C in CCPM signify?",
   "answers" : [ {
     "index" : 1,
-    "text" : "critical"
+    "text" : "Critical"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

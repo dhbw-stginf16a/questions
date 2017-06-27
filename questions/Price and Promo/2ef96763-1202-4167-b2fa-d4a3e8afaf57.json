@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Public sources, commercial sources and educational institutions are sources of ... ?",
+  "question" : "Public sources, commercial sources and educational institutions are sources of [...].",
   "answers" : [ {
     "index" : 1,
-    "text" : "Secondary research (of market research)"
+    "text" : "secondary research (of market research)"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

@@ -2,10 +2,10 @@
   "type" : "fillIn",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "The ... refers to placement such as having the product available where and when targeted customers want to buy it.",
+  "question" : "The [...] refers to placement such as having the product available where and when targeted customers want to buy it.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Place"
+    "text" : "place"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

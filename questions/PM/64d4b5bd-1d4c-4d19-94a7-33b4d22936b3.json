@@ -5,7 +5,7 @@
   "question" : "What does the S in SMART stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "specific"
+    "text" : "Specific"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

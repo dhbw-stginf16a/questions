@@ -5,9 +5,9 @@
   "question" : "What's the most common type of distribution in B2B?",
   "answers" : [ {
     "index" : 1,
-    "text" : "direct"
+    "text" : "Direct"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

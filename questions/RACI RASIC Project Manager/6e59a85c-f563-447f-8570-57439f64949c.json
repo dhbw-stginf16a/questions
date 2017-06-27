@@ -9,7 +9,7 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Provide management report after a project (should be regular)"
+    "text" : "Provide management report after a project"
   }, {
     "index" : 2,
     "text" : "Create a pleasant working environment"
@@ -18,5 +18,5 @@
     "text" : "Support teambuilding"
   } ],
   "requiredAnswers" : 1,
-  "category" : "RACI RASIC"
+  "category" : "RACI RASIC Project Manager"
 }

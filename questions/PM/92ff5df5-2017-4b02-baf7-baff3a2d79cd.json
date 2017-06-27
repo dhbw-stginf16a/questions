@@ -1,22 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "approved",
+  "status" : "review",
   "question" : "What does VUCA stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "volatility"
-  }, {
-    "index" : 2,
-    "text" : "uncertainty"
-  }, {
-    "index" : 3,
-    "text" : "complexity"
-  }, {
-    "index" : 4,
-    "text" : "ambiguity"
+    "text" : "Volatility, uncertainty, complexity, ambiguity"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 4,
+  "requiredAnswers" : 1,
   "category" : "PM"
 }

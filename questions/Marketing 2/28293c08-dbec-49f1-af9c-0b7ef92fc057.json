@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "draft",
-  "question" : "\"Percieved Quality\" umfasst die Qualität die der Kunde tatsächlich wahr nimmt, dazu gehört auch ... ?",
+  "question" : "\"Percieved Quality\" umfasst die Qualität die der Kunde tatsächlich wahr nimmt, dazu gehört auch [...] ?",
   "answers" : [ {
     "index" : 1,
     "text" : "Image und Design"

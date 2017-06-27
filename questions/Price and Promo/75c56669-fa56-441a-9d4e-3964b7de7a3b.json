@@ -1,13 +1,13 @@
 {
-  "type" : "wildcard",
+  "type" : "fillIn",
   "difficulty" : 2,
   "status" : "review",
-  "question" : "Information for market research compiled by you or someone you hired is called ..?",
+  "question" : "Information for market research compiled by you or someone you hired is called [...]",
   "answers" : [ {
     "index" : 1,
-    "text" : "Primary information"
+    "text" : "primary information"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

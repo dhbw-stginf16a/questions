@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "The perkinson's law says that the demand upon a resource tends to ... to match the supply of the resource.",
+  "question" : "The perkinson's law says that the demand upon a resource tends to [...] to match the supply of the resource.",
   "answers" : [ {
     "index" : 1,
     "text" : "to expand"

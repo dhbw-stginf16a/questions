@@ -2,7 +2,7 @@
   "type" : "fillIn",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "The Project Manager will create a Project envrionment that is ...  of all cultures and backgrounds.",
+  "question" : "The Project Manager will create a Project envrionment that is [...] of all cultures and backgrounds.",
   "answers" : [ {
     "index" : 1,
     "text" : "inclusive"

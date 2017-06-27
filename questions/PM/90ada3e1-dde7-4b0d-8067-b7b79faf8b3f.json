@@ -2,16 +2,16 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Name the 3 criterias for a Task",
+  "question" : "Name the 3 criterias for a Task.",
   "answers" : [ {
     "index" : 1,
-    "text" : "project activity"
+    "text" : "Project activity"
   }, {
     "index" : 2,
-    "text" : "starting point"
+    "text" : "Starting point"
   }, {
     "index" : 3,
-    "text" : "finishing point"
+    "text" : "Finishing point"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

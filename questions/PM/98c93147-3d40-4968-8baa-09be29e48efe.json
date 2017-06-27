@@ -1,13 +1,19 @@
 {
-  "type" : "wildcard",
+  "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "approved",
+  "status" : "review",
   "question" : "True or False: Multitasking is a good method for finishing tasks faster.",
   "answers" : [ {
-    "index" : 1,
+    "index" : 2,
     "text" : "False"
   } ],
-  "possibilities" : [ ],
+  "possibilities" : [ {
+    "index" : 1,
+    "text" : "True"
+  }, {
+    "index" : 2,
+    "text" : "False"
+  } ],
   "requiredAnswers" : 1,
   "category" : "PM"
 }

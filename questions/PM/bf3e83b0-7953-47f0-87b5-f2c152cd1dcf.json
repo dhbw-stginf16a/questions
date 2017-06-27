@@ -5,13 +5,13 @@
   "question" : "What are the 3 different leadership approaches?",
   "answers" : [ {
     "index" : 1,
-    "text" : "characteristical approach"
+    "text" : "Characteristical approach"
   }, {
     "index" : 2,
-    "text" : "behavioral approach"
+    "text" : "Behavioral approach"
   }, {
     "index" : 3,
-    "text" : "situational approach"
+    "text" : "Situational approach"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

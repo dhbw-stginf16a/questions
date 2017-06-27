@@ -2,16 +2,16 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Name the 3 different kinds of time estimates which should always be made",
+  "question" : "Name the 3 different kinds of time estimates which should always be made.",
   "answers" : [ {
     "index" : 1,
-    "text" : "optimistic"
+    "text" : "Optimistic"
   }, {
     "index" : 2,
-    "text" : "pessimistic"
+    "text" : "Pessimistic"
   }, {
     "index" : 3,
-    "text" : "most likey"
+    "text" : "Most likely"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,

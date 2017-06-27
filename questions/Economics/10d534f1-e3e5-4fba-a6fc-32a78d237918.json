@@ -9,13 +9,13 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Natural Science"
+    "text" : "natural Science"
   }, {
     "index" : 2,
-    "text" : "Jurisprudence"
+    "text" : "jurisprudence"
   }, {
     "index" : 3,
-    "text" : "Cultural Science"
+    "text" : "cultural Science"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

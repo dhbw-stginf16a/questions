@@ -1,25 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "approved",
+  "status" : "review",
   "question" : "What does SMART stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "specific"
-  }, {
-    "index" : 2,
-    "text" : "measurable"
-  }, {
-    "index" : 3,
-    "text" : "attainable"
-  }, {
-    "index" : 4,
-    "text" : "relevant"
-  }, {
-    "index" : 5,
-    "text" : "time-bound"
+    "text" : "Specific, measurable, attainable, relevant, time-bound"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 5,
+  "requiredAnswers" : 1,
   "category" : "PM"
 }

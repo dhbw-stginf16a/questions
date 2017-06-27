@@ -15,8 +15,8 @@
     "text" : "Specific research"
   }, {
     "index" : 3,
-    "text" : "none of them"
+    "text" : "None of them"
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

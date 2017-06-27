@@ -1,17 +1,17 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "A perfect price differentiation is only achievable, if ... (name 2 answers)",
+  "question" : "A perfect price differentiation is only achievable, if [...] (name 2 answers)",
   "answers" : [ {
     "index" : 1,
-    "text" : "The individual price a customer would pay is known."
+    "text" : "the individual price a customer would pay is known."
   }, {
     "index" : 2,
-    "text" : "It is possible to offer personalized prices."
+    "text" : "it is possible to offer personalized prices."
   }, {
     "index" : 3,
-    "text" : "Resale is forbidden."
+    "text" : "resale is forbidden."
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

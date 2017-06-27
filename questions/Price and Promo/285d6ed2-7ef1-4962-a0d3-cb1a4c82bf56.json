@@ -2,12 +2,12 @@
   "type" : "fillIn",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Economic status, laws and environmental aspects are ... for the decision between a direct or an indirect distribution.",
+  "question" : "Economic status, laws and environmental aspects are [...] for the decision between a direct or an indirect distribution.",
   "answers" : [ {
     "index" : 1,
     "text" : "environment related factors"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

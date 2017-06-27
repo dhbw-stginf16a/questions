@@ -1,7 +1,7 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "approved",
+  "status" : "review",
   "question" : "Define \"Product\".",
   "answers" : [ {
     "index" : 1,

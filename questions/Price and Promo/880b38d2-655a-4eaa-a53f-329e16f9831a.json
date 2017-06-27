@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Parity pricing is choosing a price roughly equivalent to ...?",
+  "question" : "Parity pricing is choosing a price roughly equivalent to [...].",
   "answers" : [ {
     "index" : 1,
     "text" : "the major competition's price"

@@ -1,7 +1,7 @@
 {
   "type" : "list",
   "difficulty" : 3,
-  "status" : "approved",
+  "status" : "review",
   "question" : "A variation of the RASIC-approach is called RAPID. List the meanings of all letters",
   "answers" : [ {
     "index" : 1,

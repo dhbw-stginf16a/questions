@@ -5,7 +5,7 @@
   "question" : "What are stakeholder?",
   "answers" : [ {
     "index" : 1,
-    "text" : "person or group with an interest in the project"
+    "text" : "Person or group with an interest in the project"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

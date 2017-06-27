@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Your logo should not... (list 2 criterias)!",
+  "question" : "Your logo should not [...] (list 2 criterias)!",
   "answers" : [ {
     "index" : 1,
     "text" : "be to detailed."
@@ -14,6 +14,6 @@
     "text" : "be overdrawn."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 2,
   "category" : "Corporate identity - branding"
 }

@@ -9,14 +9,14 @@
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "Input- and outputgoods"
+    "text" : "input- and outputgoods"
   }, {
     "index" : 2,
-    "text" : "Capital and consumption goods"
+    "text" : "capital and consumption goods"
   }, {
     "index" : 3,
-    "text" : "Material and immaterial goods"
+    "text" : "material and immaterial goods"
   } ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Economics"
 }

@@ -5,7 +5,7 @@
   "question" : "What is the definition of a risk?",
   "answers" : [ {
     "index" : 1,
-    "text" : "the possibility of something going wrong in the future"
+    "text" : "The possibility of something going wrong in the future"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,

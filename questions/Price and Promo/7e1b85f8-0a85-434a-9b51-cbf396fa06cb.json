@@ -8,6 +8,6 @@
     "text" : "Sales growth is just interested in the amount of sales and nothing else."
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

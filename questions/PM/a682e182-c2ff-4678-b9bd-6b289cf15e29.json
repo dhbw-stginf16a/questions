@@ -2,7 +2,7 @@
   "type" : "fillIn",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Within a project an ... goal is reached.",
+  "question" : "Within a project an [...] goal is reached.",
   "answers" : [ {
     "index" : 1,
     "text" : "unique"

@@ -8,6 +8,6 @@
     "text" : "Other prices are offerd for other places (e.g. countries)"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
+  "requiredAnswers" : 1,
   "category" : "Price and Promo"
 }

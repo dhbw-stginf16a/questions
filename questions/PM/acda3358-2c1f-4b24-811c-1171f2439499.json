@@ -5,7 +5,7 @@
   "question" : "What does the P in CCPM signify?",
   "answers" : [ {
     "index" : 1,
-    "text" : "project"
+    "text" : "Project"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
