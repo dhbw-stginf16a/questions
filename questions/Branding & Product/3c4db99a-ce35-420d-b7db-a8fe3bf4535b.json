@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Name at least three examples for people as products.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Politicians"
+  }, {
+    "index" : 2,
+    "text" : "Actors"
+  }, {
+    "index" : 3,
+    "text" : "Singers"
+  }, {
+    "index" : 4,
+    "text" : "Kings/Queens"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing mix"
+}

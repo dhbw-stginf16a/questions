@@ -1,0 +1,13 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "What does the augmented product consist?",
+  "answers" : [ {
+    "index" : 3,
+    "text" : "Warranty and services"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

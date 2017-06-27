@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "Name at least three examples for physical goods.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Food"
+  }, {
+    "index" : 2,
+    "text" : "Cars"
+  }, {
+    "index" : 3,
+    "text" : "Furnitur"
+  }, {
+    "index" : 4,
+    "text" : "Computer"
+  }, {
+    "index" : 5,
+    "text" : "Drinks"
+  }, {
+    "index" : 6,
+    "text" : "Clothes"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing mix"
+}

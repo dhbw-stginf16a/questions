@@ -1,0 +1,19 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "Name three parts of the corporate communication.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Advertising"
+  }, {
+    "index" : 2,
+    "text" : "Pubic relations"
+  }, {
+    "index" : 3,
+    "text" : "Information"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 3,
+  "category" : "Marketing mix"
+}

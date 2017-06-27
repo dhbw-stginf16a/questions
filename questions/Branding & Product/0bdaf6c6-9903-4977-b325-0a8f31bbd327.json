@@ -1,0 +1,16 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "What are the two most common trademarks?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Figurative mark"
+  }, {
+    "index" : 2,
+    "text" : "Word mark"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Branding & Product"
+}

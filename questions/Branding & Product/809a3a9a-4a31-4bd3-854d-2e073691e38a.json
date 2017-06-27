@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Define the \"Corporate Identity\".",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "A corporate identity is the overall image of a corporation, firm or business in the minds of diverse publics, such as customers, investors and employees."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

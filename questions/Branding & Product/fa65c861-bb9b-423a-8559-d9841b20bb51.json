@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Name at least 4 kind of products.",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Physical products"
+  }, {
+    "index" : 2,
+    "text" : "Services"
+  }, {
+    "index" : 3,
+    "text" : "Persons"
+  }, {
+    "index" : 4,
+    "text" : "Places"
+  }, {
+    "index" : 5,
+    "text" : "Organizations"
+  }, {
+    "index" : 6,
+    "text" : "Idea"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 4,
+  "category" : "Marketing mix"
+}

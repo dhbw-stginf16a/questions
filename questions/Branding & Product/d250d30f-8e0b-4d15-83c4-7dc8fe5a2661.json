@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "What are the six important aspects about naming your product/business/website?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Be easy to pronounce and spell."
+  }, {
+    "index" : 2,
+    "text" : "Be memorable."
+  }, {
+    "index" : 3,
+    "text" : "Do not be to specific in naming"
+  }, {
+    "index" : 4,
+    "text" : "No negative connotations "
+  }, {
+    "index" : 6,
+    "text" : "Make sure your name does not alienate any group "
+  }, {
+    "index" : 7,
+    "text" : "Search for existing trademarks."
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 6,
+  "category" : "Marketing mix"
+}

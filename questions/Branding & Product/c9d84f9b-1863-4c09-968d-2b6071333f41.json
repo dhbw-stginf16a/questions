@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "List five properties on the USP?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "ability to defence"
+  }, {
+    "index" : 2,
+    "text" : "orientation to audience"
+  }, {
+    "index" : 3,
+    "text" : "economic feasibility"
+  }, {
+    "index" : 4,
+    "text" : "price"
+  }, {
+    "index" : 5,
+    "text" : "quality"
+  }, {
+    "index" : 6,
+    "text" : "special features"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "Marketing mix"
+}

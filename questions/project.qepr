@@ -2,16 +2,12 @@
   "categories" : [ {
     "categoryName" : "Economics"
   }, {
-    "categoryName" : "RACI RASIC Project Manager"
+    "categoryName" : "RASIC & Project Manager"
   }, {
-    "categoryName" : "PM"
+    "categoryName" : "PM General & Planing"
   }, {
-    "categoryName" : "Marketing mix"
+    "categoryName" : "Branding & Product"
   }, {
-    "categoryName" : "Marketing- Product"
-  }, {
-    "categoryName" : "Corporate identity - branding"
-  }, {
-    "categoryName" : "Price and Promo"
+    "categoryName" : "Price & Promo"
   } ]
 }

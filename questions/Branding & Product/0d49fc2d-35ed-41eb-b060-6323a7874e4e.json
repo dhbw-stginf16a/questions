@@ -1,0 +1,13 @@
+{
+  "type" : "wildcard",
+  "difficulty" : 1,
+  "status" : "approved",
+  "question" : "What does \"USP\" mean?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Unique Selling Proposition"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 1,
+  "category" : "Marketing mix"
+}

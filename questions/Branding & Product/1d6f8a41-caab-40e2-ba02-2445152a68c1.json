@@ -1,0 +1,28 @@
+{
+  "type" : "list",
+  "difficulty" : 3,
+  "status" : "approved",
+  "question" : "What does the actual product consist? (List 5 things)",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Packaging"
+  }, {
+    "index" : 2,
+    "text" : "Features"
+  }, {
+    "index" : 3,
+    "text" : "Brand name"
+  }, {
+    "index" : 4,
+    "text" : "Quality"
+  }, {
+    "index" : 5,
+    "text" : "Product mix"
+  }, {
+    "index" : 6,
+    "text" : "Design"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 5,
+  "category" : "Marketing mix"
+}

@@ -1,0 +1,22 @@
+{
+  "type" : "list",
+  "difficulty" : 2,
+  "status" : "approved",
+  "question" : "Name 2 external factors of the corporate identity?",
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Market"
+  }, {
+    "index" : 2,
+    "text" : "Economy"
+  }, {
+    "index" : 3,
+    "text" : "Government policy/legislation"
+  }, {
+    "index" : 4,
+    "text" : "Competitors"
+  } ],
+  "possibilities" : [ ],
+  "requiredAnswers" : 2,
+  "category" : "Marketing mix"
+}
