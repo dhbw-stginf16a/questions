@@ -1,13 +1,25 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What does SMART stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Specific, measurable, attainable, relevant, time-bound"
+    "text" : "Specific"
+  }, {
+    "index" : 2,
+    "text" : "Measurable"
+  }, {
+    "index" : 3,
+    "text" : "Attainable"
+  }, {
+    "index" : 4,
+    "text" : "Relevant"
+  }, {
+    "index" : 5,
+    "text" : "Time-bound"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 1,
-  "category" : "PM"
+  "requiredAnswers" : 5,
+  "category" : "PM General & Planing"
 }

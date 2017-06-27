@@ -1,8 +1,8 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
-  "question" : "True or False: A project is a temporary effort made up of a set of related activities.",
+  "status" : "approved",
+  "question" : "A project is a temporary effort made up of a set of related activities.",
   "answers" : [ {
     "index" : 2,
     "text" : "True"
@@ -15,5 +15,5 @@
     "text" : "False"
   } ],
   "requiredAnswers" : 1,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

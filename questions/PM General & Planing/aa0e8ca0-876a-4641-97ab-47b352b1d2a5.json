@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Does the characteristical leadership approach dependent on a situation?",
   "answers" : [ {
     "index" : 2,
@@ -15,5 +15,5 @@
     "text" : "No"
   } ],
   "requiredAnswers" : 1,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

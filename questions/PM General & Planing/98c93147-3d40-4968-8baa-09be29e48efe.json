@@ -1,8 +1,8 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 1,
-  "status" : "review",
-  "question" : "True or False: Multitasking is a good method for finishing tasks faster.",
+  "status" : "approved",
+  "question" : "Multitasking is a good method for finishing tasks faster.",
   "answers" : [ {
     "index" : 2,
     "text" : "False"
@@ -15,5 +15,5 @@
     "text" : "False"
   } ],
   "requiredAnswers" : 1,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

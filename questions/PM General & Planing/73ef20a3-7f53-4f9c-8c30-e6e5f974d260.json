@@ -1,13 +1,19 @@
 {
-  "type" : "wildcard",
+  "type" : "list",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What does the S,R and T in SMART stand for?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Specific, relevant, time-bound"
+    "text" : "Specific"
+  }, {
+    "index" : 2,
+    "text" : "Relevant"
+  }, {
+    "index" : 3,
+    "text" : "Time-Bound"
   } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 1,
-  "category" : "PM"
+  "requiredAnswers" : 3,
+  "category" : "PM General & Planing"
 }

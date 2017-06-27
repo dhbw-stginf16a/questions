@@ -1,10 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 3,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "Sometimes the minimum pricing level will be undercutted, how is this pricing policy called?",
-  "answers" : [ ],
+  "answers" : [ {
+    "index" : 1,
+    "text" : "Tactical price policy"
+  } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
-  "category" : "Price and Promo"
+  "requiredAnswers" : 1,
+  "category" : "Price & Promo"
 }

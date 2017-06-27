@@ -1,10 +1,13 @@
 {
   "type" : "wildcard",
   "difficulty" : 2,
-  "status" : "draft",
+  "status" : "approved",
   "question" : "What does price elasticity say?",
-  "answers" : [ ],
+  "answers" : [ {
+    "index" : 1,
+    "text" : "It describes how much the customers will react to price changes."
+  } ],
   "possibilities" : [ ],
-  "requiredAnswers" : 0,
-  "category" : "Price and Promo"
+  "requiredAnswers" : 1,
+  "category" : "Price & Promo"
 }
