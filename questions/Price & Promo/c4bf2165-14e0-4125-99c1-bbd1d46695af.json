@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Name 3 company related factors for the decision between a direct or an indirect distribution.",
+  "question" : "Name three company related factors for the decision between a direct or an indirect distribution.",
   "answers" : [ {
     "index" : 1,
     "text" : "Size of the company"
@@ -18,5 +18,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

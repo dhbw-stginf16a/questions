@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Name all 3 fields of market research!",
+  "question" : "Name all three fields of market research!",
   "answers" : [ {
     "index" : 1,
     "text" : "Customer (consumer)"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

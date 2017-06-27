@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "RASIC is an acronym. What does each letter signify? Name the 2 wrong meanings.",
+  "question" : "RASIC is an acronym. What does each letter signify? Name the two wrong meanings.",
   "answers" : [ {
     "index" : 4,
     "text" : "Insisting"
@@ -27,5 +27,5 @@
     "text" : "Concentrated"
   } ],
   "requiredAnswers" : 2,
-  "category" : "RACI RASIC"
+  "category" : "RASIC & Project Manager"
 }

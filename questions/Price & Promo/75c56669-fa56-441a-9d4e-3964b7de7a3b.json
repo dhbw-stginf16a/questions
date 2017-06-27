@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Information for market research compiled by you or someone you hired is called [...]",
   "answers" : [ {
     "index" : 1,
@@ -9,5 +9,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

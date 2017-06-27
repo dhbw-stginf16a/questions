@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "Which properties influence the brand assosiation (name at least 2)?",
+  "question" : "Which properties influence the brand assosiation (name at least two)?",
   "answers" : [ {
     "index" : 1,
     "text" : "Colour"
@@ -27,5 +27,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "Marketing mix"
+  "category" : "Branding & Product"
 }

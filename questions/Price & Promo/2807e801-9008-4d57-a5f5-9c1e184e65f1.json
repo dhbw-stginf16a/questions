@@ -1,7 +1,7 @@
 {
   "type" : "multipleChoice",
   "difficulty" : 2,
-  "status" : "review",
+  "status" : "approved",
   "question" : "What does reservation price mean?",
   "answers" : [ {
     "index" : 2,
@@ -21,5 +21,5 @@
     "text" : "The lowest price other competitors offer."
   } ],
   "requiredAnswers" : 1,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

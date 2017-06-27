@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
-  "question" : "Name 2 advantages of a direct distribution!",
+  "status" : "approved",
+  "question" : "Name two advantages of a direct distribution!",
   "answers" : [ {
     "index" : 1,
     "text" : "Higher margins"
@@ -18,5 +18,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

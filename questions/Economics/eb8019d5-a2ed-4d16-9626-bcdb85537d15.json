@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "List 3 privileges of a shareholder.",
+  "question" : "List three privileges of a shareholder.",
   "answers" : [ {
     "index" : 1,
     "text" : "Participation in the general assembly"

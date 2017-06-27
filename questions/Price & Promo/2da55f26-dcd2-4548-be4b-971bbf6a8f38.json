@@ -1,8 +1,8 @@
 {
   "type" : "list",
   "difficulty" : 2,
-  "status" : "review",
-  "question" : "Name 2 advantages of an indirect distribution!",
+  "status" : "approved",
+  "question" : "Name two advantages of an indirect distribution!",
   "answers" : [ {
     "index" : 1,
     "text" : "Less costs because of staff"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "List 3 aspects of corporate behaviour.",
+  "question" : "List three aspects of corporate behaviour.",
   "answers" : [ {
     "index" : 1,
     "text" : "Financial management"

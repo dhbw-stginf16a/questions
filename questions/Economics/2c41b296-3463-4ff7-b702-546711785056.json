@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "List 2 principles of a social marked (e.g. Germany).",
+  "question" : "List two principles of a social marked (e.g. Germany).",
   "answers" : [ {
     "index" : 1,
     "text" : "Garanty of social equality"

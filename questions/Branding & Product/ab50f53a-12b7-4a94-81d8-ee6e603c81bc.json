@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Name 2 parts of the corporate design.",
+  "question" : "Name two parts of the corporate design.",
   "answers" : [ {
     "index" : 1,
     "text" : "Logos"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "Marketing mix"
+  "category" : "Branding & Product"
 }

@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "A perfect price differentiation is only achievable, if [...] (name 2 answers)",
+  "question" : "A perfect price differentiation is only achievable, if [...] (name two answers)",
   "answers" : [ {
     "index" : 1,
     "text" : "the individual price a customer would pay is known."
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

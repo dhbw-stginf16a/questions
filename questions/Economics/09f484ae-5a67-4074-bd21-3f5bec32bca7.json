@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "True or False?\n\"Create maximum output with minimum input\" describes the optimumprinciple.",
+  "question" : "True or False: \"Create maximum output with minimum input\" describes the optimumprinciple.",
   "answers" : [ {
     "index" : 2,
     "text" : "Falsch"

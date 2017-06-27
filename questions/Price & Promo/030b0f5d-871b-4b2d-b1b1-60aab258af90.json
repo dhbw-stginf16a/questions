@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 1,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Gathering information and data to help solve marketing challenges that a business will most likely face is called [...]",
   "answers" : [ {
     "index" : 1,
@@ -9,5 +9,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

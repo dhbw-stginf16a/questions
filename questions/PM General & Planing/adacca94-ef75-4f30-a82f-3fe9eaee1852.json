@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Name 4 different leadership styles.",
+  "question" : "Name four different leadership styles.",
   "answers" : [ {
     "index" : 1,
     "text" : "Patriarchal"
@@ -27,5 +27,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 4,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

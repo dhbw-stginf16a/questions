@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "What does the actual product consist? (List 5 things)",
+  "question" : "What does the actual product consist? (List five things)",
   "answers" : [ {
     "index" : 1,
     "text" : "Packaging"
@@ -24,5 +24,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 5,
-  "category" : "Marketing mix"
+  "category" : "Branding & Product"
 }

@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Name the 2 elements by which the CCPM expands the usual project management.",
+  "question" : "Name the two elements by which the CCPM expands the usual project management.",
   "answers" : [ {
     "index" : 1,
     "text" : "Prevention of multitasking"
@@ -12,5 +12,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

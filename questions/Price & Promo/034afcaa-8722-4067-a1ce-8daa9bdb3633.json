@@ -1,7 +1,7 @@
 {
   "type" : "fillIn",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "Selling a set of different products with a lower price is called [...]",
   "answers" : [ {
     "index" : 1,
@@ -9,5 +9,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

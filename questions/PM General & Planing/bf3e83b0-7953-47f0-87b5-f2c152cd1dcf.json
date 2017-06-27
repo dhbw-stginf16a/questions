@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "What are the 3 different leadership approaches?",
+  "question" : "What are the three different leadership approaches?",
   "answers" : [ {
     "index" : 1,
     "text" : "Characteristical approach"
@@ -15,5 +15,5 @@
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 3,
-  "category" : "PM"
+  "category" : "PM General & Planing"
 }

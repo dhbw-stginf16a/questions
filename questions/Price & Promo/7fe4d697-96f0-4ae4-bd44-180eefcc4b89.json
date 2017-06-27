@@ -1,13 +1,13 @@
 {
   "type" : "fillIn",
   "difficulty" : 3,
-  "status" : "review",
+  "status" : "approved",
   "question" : "If a company has [...] the whole distribution channel is controled by the company.",
   "answers" : [ {
     "index" : 1,
-    "text" : "Direct distribution"
+    "text" : "direct distribution"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 1,
-  "category" : "Price and Promo"
+  "category" : "Price & Promo"
 }

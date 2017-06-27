@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 1,
   "status" : "approved",
-  "question" : "List 2 aspects of corporate communication.",
+  "question" : "List two aspects of corporate communication.",
   "answers" : [ {
     "index" : 1,
     "text" : "Communication (internal and external)"
