@@ -25,7 +25,12 @@ Furthermore we had to agree what kind of data we needed:
   * list
 
 ## Categories
-_Not finished yet_
+
+  * Branding & Product
+  * Economics
+  * PM General & Planing
+  * Price & Promo
+  * RASIC & Project Manager
 
 ## File format
 
@@ -60,7 +65,7 @@ The file structure has been designed to follow the requirements we defined in 1.
 
 ## Exported Data
 
-When building the questions, using the parser from the tools repo, it will create one big JSON-File with the following structure:
+When building the questions, using the parser from the tools repository, it will create one big JSON-File with the following structure:
 
 ```
 {
