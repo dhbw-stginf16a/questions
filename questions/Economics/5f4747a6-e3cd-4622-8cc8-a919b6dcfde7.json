@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Which of the following investments is object related?",
+  "question" : "Which of the following investments are object related?",
   "answers" : [ {
     "index" : 3,
     "text" : "Intangible investment"

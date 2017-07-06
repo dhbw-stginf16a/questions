@@ -2,7 +2,7 @@
   "type" : "wildcard",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "What is the synonyme for a business?",
+  "question" : "What is the synonym for a business?",
   "answers" : [ {
     "index" : 1,
     "text" : "Production industry"

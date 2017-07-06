@@ -2,7 +2,7 @@
   "type" : "wildcard",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Wherefor do you need scarce commodities?",
+  "question" : "Wherefore do you need scarce commodities?",
   "answers" : [ {
     "index" : 1,
     "text" : "Satisfaction of needs"
