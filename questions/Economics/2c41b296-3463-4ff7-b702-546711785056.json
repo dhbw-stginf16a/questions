@@ -5,10 +5,10 @@
   "question" : "List two principles of a social marked (e.g. Germany).",
   "answers" : [ {
     "index" : 1,
-    "text" : "Garanty of social equality"
+    "text" : "Guaranty of social equality"
   }, {
     "index" : 2,
-    "text" : "Income distribution in favor of financialy vulnerable people"
+    "text" : "Income distribution in favor of financially vulnerable people"
   }, {
     "index" : 3,
     "text" : "Social insurance"

@@ -2,7 +2,7 @@
   "type" : "multipleChoice",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "Which kind of accountig handels the liabilities towards suppliers?",
+  "question" : "Which kind of accounting handles the liabilities towards suppliers?",
   "answers" : [ {
     "index" : 3,
     "text" : "Payable accounting"

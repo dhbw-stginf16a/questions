@@ -2,13 +2,13 @@
   "type" : "multipleChoice",
   "difficulty" : 3,
   "status" : "approved",
-  "question" : "Which entries stand on the passiv side of the balance sheet?",
+  "question" : "Which entries stand on the passive side of the balance sheet?",
   "answers" : [ {
     "index" : 3,
-    "text" : "Eigenkapital"
+    "text" : "Equity"
   }, {
     "index" : 4,
-    "text" : "Fremdkapital"
+    "text" : "Borrowing"
   } ],
   "possibilities" : [ {
     "index" : 1,

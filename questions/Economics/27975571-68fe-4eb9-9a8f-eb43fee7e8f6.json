@@ -2,7 +2,7 @@
   "type" : "list",
   "difficulty" : 2,
   "status" : "approved",
-  "question" : "List two finacial decision criteria.",
+  "question" : "List two financial decision criteria.",
   "answers" : [ {
     "index" : 1,
     "text" : "Liquidity"
@@ -17,7 +17,7 @@
     "text" : "Independence / dependence"
   }, {
     "index" : 5,
-    "text" : "Sustainability & social responsability"
+    "text" : "Sustainability & social responsibility"
   } ],
   "possibilities" : [ ],
   "requiredAnswers" : 2,

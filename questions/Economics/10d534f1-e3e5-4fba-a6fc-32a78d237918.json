@@ -5,17 +5,17 @@
   "question" : "Economics is a ...",
   "answers" : [ {
     "index" : 3,
-    "text" : "Kulturwissenschaft"
+    "text" : "cultural science"
   } ],
   "possibilities" : [ {
     "index" : 1,
-    "text" : "natural Science"
+    "text" : "natural science"
   }, {
     "index" : 2,
     "text" : "jurisprudence"
   }, {
     "index" : 3,
-    "text" : "cultural Science"
+    "text" : "cultural science"
   } ],
   "requiredAnswers" : 1,
   "category" : "Economics"

@@ -5,13 +5,13 @@
   "question" : "Which of the following shares are ordinary shares?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Inhaberaktien"
+    "text" : "Bearer shares"
   }, {
     "index" : 2,
-    "text" : "Namensaktien"
+    "text" : "Registered shares"
   }, {
     "index" : 3,
-    "text" : "Vinkulierte Aktien"
+    "text" : "Vinkulated shares"
   } ],
   "possibilities" : [ {
     "index" : 1,

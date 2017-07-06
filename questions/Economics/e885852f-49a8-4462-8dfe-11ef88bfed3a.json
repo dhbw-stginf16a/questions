@@ -5,7 +5,7 @@
   "question" : "Are food, clothes and accommodation basic needs?",
   "answers" : [ {
     "index" : 2,
-    "text" : "Nein"
+    "text" : "No"
   } ],
   "possibilities" : [ {
     "index" : 1,
