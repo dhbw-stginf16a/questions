@@ -5,13 +5,13 @@
   "question" : "Which of the following investments is object related?",
   "answers" : [ {
     "index" : 3,
-    "text" : "Immaterielle Investitionen"
+    "text" : "Intangible investment"
   }, {
     "index" : 2,
-    "text" : "Finanzinvestitionen"
+    "text" : "Finance investment"
   }, {
     "index" : 1,
-    "text" : "Sachinvestitionen"
+    "text" : "Property investment"
   } ],
   "possibilities" : [ {
     "index" : 1,

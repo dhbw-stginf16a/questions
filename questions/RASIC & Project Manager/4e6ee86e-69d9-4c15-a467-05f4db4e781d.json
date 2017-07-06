@@ -5,7 +5,7 @@
   "question" : "Which way of communication do you have as an Informee?",
   "answers" : [ {
     "index" : 1,
-    "text" : "one-way communication"
+    "text" : "One-way communication"
   } ],
   "possibilities" : [ {
     "index" : 1,

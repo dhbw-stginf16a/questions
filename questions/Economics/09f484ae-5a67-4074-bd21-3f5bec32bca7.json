@@ -5,7 +5,7 @@
   "question" : "True or False: \"Create maximum output with minimum input\" describes the optimumprinciple.",
   "answers" : [ {
     "index" : 2,
-    "text" : "Falsch"
+    "text" : "False"
   } ],
   "possibilities" : [ {
     "index" : 1,

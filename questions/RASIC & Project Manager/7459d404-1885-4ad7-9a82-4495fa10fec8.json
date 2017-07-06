@@ -5,7 +5,7 @@
   "question" : "What is the RASIC-Matrix and wherefor do you use it?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Management Tool zur Rollenverteilung in einem Projekt"
+    "text" : "Management tool  used to establish responsibilities"
   } ],
   "possibilities" : [ {
     "index" : 1,
@@ -18,5 +18,5 @@
     "text" : "A law to control roll distribution and workflows"
   } ],
   "requiredAnswers" : 1,
-  "category" : "RACI RASIC Project Manager"
+  "category" : "RASIC & Project Manager"
 }

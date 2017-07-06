@@ -5,7 +5,7 @@
   "question" : "Which kind of accounting handels the loans and advances to customers?",
   "answers" : [ {
     "index" : 2,
-    "text" : "Debitorenbuchhaltung"
+    "text" : "Receivable accounting"
   } ],
   "possibilities" : [ {
     "index" : 1,

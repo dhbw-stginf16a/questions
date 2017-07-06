@@ -5,7 +5,7 @@
   "question" : "Which competences should a Project Manager most likley have?",
   "answers" : [ {
     "index" : 1,
-    "text" : "Communication"
+    "text" : "Provide accurate and regular management reports"
   }, {
     "index" : 3,
     "text" : "Resolves confilicts"
@@ -21,5 +21,5 @@
     "text" : "Resolves confilicts"
   } ],
   "requiredAnswers" : 2,
-  "category" : "RACI RASIC"
+  "category" : "RASIC & Project Manager"
 }

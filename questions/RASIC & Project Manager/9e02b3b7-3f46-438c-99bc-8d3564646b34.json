@@ -5,7 +5,7 @@
   "question" : "What is most important for a Project Manager?",
   "answers" : [ {
     "index" : 3,
-    "text" : "beides in gleichem Maß"
+    "text" : "Both in an equal ratio"
   } ],
   "possibilities" : [ {
     "index" : 1,
@@ -21,5 +21,5 @@
     "text" : "Externally occur"
   } ],
   "requiredAnswers" : 1,
-  "category" : "RACI RASIC Project Manager"
+  "category" : "RASIC & Project Manager"
 }

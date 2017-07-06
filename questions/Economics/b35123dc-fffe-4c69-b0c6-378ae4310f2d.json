@@ -5,7 +5,7 @@
   "question" : "What kind of output good is a hardback book in a printing office?",
   "answers" : [ {
     "index" : 2,
-    "text" : "Fertiges Erzeugnis"
+    "text" : "Finished product"
   } ],
   "possibilities" : [ {
     "index" : 1,
