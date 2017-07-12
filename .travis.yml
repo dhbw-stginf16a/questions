@@ -4,7 +4,7 @@ python:
 before_script:
 - wget https://raw.githubusercontent.com/dhbw-stginf16a/questions-tools/master/parseQuestion.py
 script:
-- python parseQuestion.py --generate-json
+- python parseQuestion.py --generate-json 
 deploy:
   skip_cleanup: true
   provider: releases
@@ -14,6 +14,7 @@ deploy:
     - "questions.json"
     - "README.md"
     - "FileStructure.md"
+    - "QuestionPrint.txt"
   on:
     repo: dhbw-stginf16a/questions
     tags: true
